@@ -13,7 +13,3 @@ __pycache__/
 
 # Backup files
 *.bak
-
-# BepInEx doorstop — runtime loader, not translation content
-doorstop.dll
-doorstop_config.ini
