@@ -188,35 +188,68 @@ def load_existing_keys(text_dir):
     return keys
 
 
-def organise_textures(texture_dir, mark_translated=False, base=None):
-    """Move unsorted textures to subfolders.
-    If mark_translated=True, add their repo-relative paths to translated_textures.txt."""
-    moved = []
-    for fname in os.listdir(texture_dir):
-        fpath = os.path.join(texture_dir, fname)
+SCENE_FOLDERS = {
+    'card_entry', 'character_setting', 'chat', 'common', 'gameover',
+    'gameplay', 'matching', 'mode_select', 'result', 'sakasamatower',
+    'shop', 'stage', 'tutorial',
+}
+
+
+def get_scene(fname):
+    m = re.match(r'sactx-\d+-\d+x\d+-\w+-([a-z_]+)-', fname)
+    if m:
+        return m.group(1)
+    if fname.startswith('matching_rank_'):
+        return 'matching'
+    if fname.startswith('ui_chat_') or fname.startswith('ui_emote'):
+        return 'chat'
+    if fname.startswith('ui_stage_name_'):
+        return 'stage'
+    return None
+
+
+def sort_loose_files(scan_dir, dest_prefix, texture_dir, moved):
+    """Sort any loose .png/.psd files in scan_dir into dest_prefix/<scene>/ subfolders."""
+    for fname in os.listdir(scan_dir):
+        fpath = os.path.join(scan_dir, fname)
         if os.path.isdir(fpath):
             continue
         if not (fname.endswith('.png') or fname.endswith('.psd')):
             continue
-        m = re.match(r'sactx-\d+-\d+x\d+-\w+-([a-z_]+)-', fname)
-        if m:
-            folder = m.group(1)
-        elif fname.startswith('matching_rank_'):
-            folder = 'matching'
-        elif fname.startswith('ui_chat_'):
-            folder = 'chat'
-        elif fname.startswith('ui_emote'):
-            folder = 'chat'
-        elif fname.startswith('ui_stage_name_'):
-            folder = 'stage'
-        else:
-            print(f'  [texture] WARNING: no folder rule for "{fname}" — left in place')
+        scene = get_scene(fname)
+        if scene is None:
+            print(f'  [texture] WARNING: no scene rule for "{fname}" — left in place')
             continue
-        subfolder = folder if mark_translated else os.path.join('_untranslated', folder)
-        dest_dir = os.path.join(texture_dir, subfolder)
+        dest_dir = os.path.join(texture_dir, dest_prefix, scene)
         os.makedirs(dest_dir, exist_ok=True)
         shutil.move(fpath, os.path.join(dest_dir, fname))
-        moved.append((folder, fname))
+        moved.append((dest_prefix, scene, fname))
+
+
+def organise_textures(texture_dir, mark_translated=False, base=None):
+    """Sort loose texture files into scene subfolders.
+
+    - Texture/ root         -> Texture/<scene>/ (--translated)
+                               Texture/_untranslated/<scene>/ (default)
+    - _untranslated/ root   -> _untranslated/<scene>/
+    - _untranslated/<cat>/  -> _untranslated/<cat>/<scene>/  (any contributor-created folder)
+
+    If mark_translated=True, .png paths are registered in translated_textures.json.
+    """
+    moved = []
+    untranslated_dir = os.path.join(texture_dir, '_untranslated')
+
+    # Sort files dropped in Texture/ root
+    root_prefix = '' if mark_translated else '_untranslated'
+    sort_loose_files(texture_dir, root_prefix, texture_dir, moved)
+
+    # Sort files dropped in _untranslated/ root and any contributor subfolders within it
+    if os.path.isdir(untranslated_dir):
+        sort_loose_files(untranslated_dir, '_untranslated', texture_dir, moved)
+        for entry in sorted(os.listdir(untranslated_dir)):
+            entry_path = os.path.join(untranslated_dir, entry)
+            if os.path.isdir(entry_path) and entry.lower() not in SCENE_FOLDERS:
+                sort_loose_files(entry_path, os.path.join('_untranslated', entry), texture_dir, moved)
 
     if mark_translated and moved and base:
         manifest_path = os.path.join(base, MANIFEST_FILE)
@@ -227,9 +260,9 @@ def organise_textures(texture_dir, mark_translated=False, base=None):
                 existing = json.load(f)
         existing_set = set(existing)
         new_entries = []
-        for folder, fname in moved:
-            if fname.endswith('.png'):  # only .png in manifest, not .psd
-                rel = f'{TEXTURE_DIR}/{folder}/{fname}'.replace('\\', '/')
+        for prefix, scene, fname in moved:
+            if fname.endswith('.png'):
+                rel = f'{TEXTURE_DIR}/{prefix}/{scene}/{fname}'.replace('\\', '/').replace('//', '/')
                 if rel not in existing_set:
                     new_entries.append(rel)
         if new_entries:
@@ -239,7 +272,7 @@ def organise_textures(texture_dir, mark_translated=False, base=None):
                 f.write('\n')
             print(f'  Added {len(new_entries)} texture(s) to {MANIFEST_FILE}')
 
-    return [f'{folder}/{fname}' for folder, fname in moved]
+    return [f'{os.path.join(prefix, scene)}/{fname}' for prefix, scene, fname in moved]
 
 
 # ---------------------------------------------------------------------------

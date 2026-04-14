@@ -57,3 +57,19 @@ Textures are in `BepInEx/Translation/en/Texture/`, organised by scene. To replac
 5. Commit and open a pull request.
 
 This works for both replacing an existing texture and adding a new one that isn't in the repo yet.
+
+#### Organising untranslated textures
+
+You can create your own subfolders inside `_untranslated/` to categorise work however you like — for example `_untranslated/to_translate/` or `_untranslated/ignore/`. Drop textures into the root of your category folder and run `py contribute.py` — it will sort them into scene subfolders within your category automatically.
+
+```
+_untranslated/
+└── to_translate/
+    └── ui_chat_001 [...].png   <- drop here, then run py contribute.py
+
+# Result:
+_untranslated/
+└── to_translate/
+    └── chat/
+        └── ui_chat_001 [...].png
+```
