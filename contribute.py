@@ -205,6 +205,13 @@ def get_scene(fname):
         return 'chat'
     if fname.startswith('ui_stage_name_'):
         return 'stage'
+    if fname.startswith('body_') or fname.startswith('headacc_') or fname.startswith('shoes_') or fname.startswith('weapon_') or fname.startswith('other_'):
+        return 'item_dressup'
+    if fname.startswith('ui_consume') or fname.startswith('ui_dress'):
+        return 'item_obtain'
+    if fname.startswith('ui_information_'):
+        return 'information'
+
     return None
 
 
@@ -218,7 +225,9 @@ def sort_loose_files(scan_dir, dest_prefix, texture_dir, moved):
             continue
         scene = get_scene(fname)
         if scene is None:
-            print(f'  [texture] WARNING: no scene rule for "{fname}" — left in place')
+            if not (scan_dir.endswith('ignored') or scan_dir.endswith('need_sorting')):
+                print(f'  [texture] WARNING: no scene rule for "{fname}" — left in place')
+                continue
             continue
         dest_dir = os.path.join(texture_dir, dest_prefix, scene)
         os.makedirs(dest_dir, exist_ok=True)
