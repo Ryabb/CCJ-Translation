@@ -456,3 +456,306 @@
 <sprite name\="shogo_mark_apr"><color\=#ffde00>四月の俊鬼</color>=<sprite name\="shogo_mark_apr"><color\=#ffde00>Shunki of April</color>
 <sprite name\="shogo_mark_mar"><color\=#ffde00>三月の俊鬼</color>=<sprite name\="shogo_mark_mar"><color\=#ffde00>Shunki of March</color>
 <sprite name\="shogo_mark_feb"><color\=#ffde00>二月の俊鬼</color>=<sprite name\="shogo_mark_feb"><color\=#ffde00>February Shunki</color>
+ベストチェイン=Best Chain
+巧み=Skilled
+エースラン=Ace Run
+チェチェチェチェイン=Che-Che-Che-Chain
+ナイスガイ=Nice Guy
+守り神=Guardian Spirit
+<color\=#ff8400>獅子<color\=#ff1e00>奮迅</color>=<color\=#ff8400>Lion's</color><color\=#ff1e00> Fury</color>
+トラベラー=Traveler
+<sprite name\="shogo_mark_aug"><color\=#ffde00>八月の俊鬼</color>=<sprite name\="shogo_mark_aug"><color\=#ffde00>August's Swift Demon</color>
+<sprite name\="shogo_mark_jul"><color\=#ffde00>七月の俊鬼</color>=<sprite name\="shogo_mark_jul"><color\=#ffde00>July's Swift Demon</color>
+<sprite name\="shogo_mark_jun"><color\=#ffde00>六月の俊鬼</color>=<sprite name\="shogo_mark_jun"><color\=#ffde00>June's Swift Demon</color>
+<sprite name\="shogo_mark_jan"><color\=#ffde00>一月の俊鬼</color>=<sprite name\="shogo_mark_jan"><color\=#ffde00>January's Swift Demon</color>
+ぴょんぴょんぴょん♪=Hop-Hop-Hop♪
+<sprite name\="shogo_mark_feb"><color\=#ade0f1>二月の英鬼</color>=<sprite name\="shogo_mark_feb"><color\=#ade0f1>February's Valiant Demon</color>
+<sprite name\="shogo_mark_jan"><color\=#ade0f1>一月の英鬼</color>=<sprite name\="shogo_mark_jan"><color\=#ade0f1>January's Valiant Demon</color>
+スタートダッシュ=Start Dash
+<sprite name\="shogo_mark_nov"><color\=#ffde00>十一月の俊鬼</color>=<sprite name\="shogo_mark_nov"><color\=#ffde00>November's Swift Demon</color>
+<sprite name\="shogo_mark_oct"><color\=#ffde00>十月の俊鬼</color>=<sprite name\="shogo_mark_oct"><color\=#ffde00>October's Swift Demon</color>
+<sprite name\="shogo_mark_sep"><color\=#ffde00>九月の俊鬼</color>=<sprite name\="shogo_mark_sep"><color\=#ffde00>September's Swift Demon</color>
+<sprite name\="shogo_mark_mar"><color\=#ade0f1>三月の英鬼</color>=<sprite name\="shogo_mark_mar"><color\=#ade0f1>March's Valiant Demon</color>
+<sprite name\="shogo_mark_apr"><color\=#ade0f1>四月の英鬼</color>=<sprite name\="shogo_mark_apr"><color\=#ade0f1>April's Valiant Demon</color>
+<sprite name\="shogo_mark_may"><color\=#ade0f1>五月の英鬼</color>=<sprite name\="shogo_mark_may"><color\=#ade0f1>May's Valiant Demon</color>
+<sprite name\="shogo_mark_aug"><color\=#ade0f1>八月の英鬼</color>=<sprite name\="shogo_mark_aug"><color\=#ade0f1>August's Valiant Demon</color>
+<sprite name\="shogo_mark_jul"><color\=#ade0f1>七月の英鬼</color>=<sprite name\="shogo_mark_jul"><color\=#ade0f1>July's Valiant Demon</color>
+<sprite name\="shogo_mark_jun"><color\=#ade0f1>六月の英鬼</color>=<sprite name\="shogo_mark_jun"><color\=#ade0f1>June's Valiant Demon</color>
+<sprite name\="shogo_mark_aug"><color\=#ffde00>八月の俊血</color>=<sprite name\="shogo_mark_aug"><color\=#ffde00>August's Swift Bloodletter</color>
+<sprite name\="shogo_mark_may"><color\=#ffde00>五月の俊血</color>=<sprite name\="shogo_mark_may"><color\=#ffde00>May's Swift Bloodletter</color>
+<sprite name\="shogo_mark_apr"><color\=#ffde00>四月の俊血</color>=<sprite name\="shogo_mark_apr"><color\=#ffde00>April's Swift Bloodletter</color>
+<sprite name\="shogo_mark_mar"><color\=#ffde00>三月の俊血</color>=<sprite name\="shogo_mark_mar"><color\=#ffde00>March's Swift Bloodletter</color>
+<sprite name\="shogo_mark_feb"><color\=#ffde00>二月の俊血</color>=<sprite name\="shogo_mark_feb"><color\=#ffde00>February's Swift Bloodletter</color>
+<sprite name\="shogo_mark_jan"><color\=#ffde00>一月の俊血</color>=<sprite name\="shogo_mark_jan"><color\=#ffde00>January's Swift Bloodletter</color>
+<sprite name\="shogo_mark_dec"><color\=#ade0f1>十二月の英鬼</color>=<sprite name\="shogo_mark_dec"><color\=#ade0f1>December's Valiant Demon</color>
+<sprite name\="shogo_mark_aug"><color\=#ade0f1>八月の英血</color>=<sprite name\="shogo_mark_aug"><color\=#ade0f1>August's Valiant Bloodletter</color>
+<sprite name\="shogo_mark_jul"><color\=#ade0f1>七月の英血</color>=<sprite name\="shogo_mark_jul"><color\=#ade0f1>July's Valiant Bloodletter</color>
+<sprite name\="shogo_mark_jun"><color\=#ade0f1>六月の英血</color>=<sprite name\="shogo_mark_jun"><color\=#ade0f1>June's Valiant Bloodletter</color>
+<sprite name\="shogo_mark_may"><color\=#ade0f1>五月の英血</color>=<sprite name\="shogo_mark_may"><color\=#ade0f1>May's Valiant Bloodletter</color>
+<sprite name\="shogo_mark_apr"><color\=#ade0f1>四月の英血</color>=<sprite name\="shogo_mark_apr"><color\=#ade0f1>April's Valiant Bloodletter</color>
+<sprite name\="shogo_mark_mar"><color\=#ade0f1>三月の英血</color>=<sprite name\="shogo_mark_mar"><color\=#ade0f1>March's Valiant Bloodletter</color>
+<sprite name\="shogo_mark_feb"><color\=#ade0f1>二月の英血</color>=<sprite name\="shogo_mark_feb"><color\=#ade0f1>February's Valiant Bloodletter</color>
+<sprite name\="shogo_mark_jan"><color\=#ade0f1>一月の英血</color>=<sprite name\="shogo_mark_jan"><color\=#ade0f1>January's Valiant Bloodletter</color>
+<sprite name\="shogo_mark_nov"><color\=#ffde00>十一月の俊血</color>=<sprite name\="shogo_mark_nov"><color\=#ffde00>November's Swift Bloodletter</color>
+<sprite name\="shogo_mark_oct"><color\=#ffde00>十月の俊血</color>=<sprite name\="shogo_mark_oct"><color\=#ffde00>October's Swift Bloodletter</color>
+<sprite name\="shogo_mark_sep"><color\=#ffde00>九月の俊血</color>=<sprite name\="shogo_mark_sep"><color\=#ffde00>September's Swift Bloodletter</color>
+<sprite name\="shogo_mark_aug"><color\=#ffde00>八月の俊幽</color>=<sprite name\="shogo_mark_aug"><color\=#ffde00>August's Swift Phantom</color>
+<sprite name\="shogo_mark_jul"><color\=#ffde00>七月の俊幽</color>=<sprite name\="shogo_mark_jul"><color\=#ffde00>July's Swift Phantom</color>
+<sprite name\="shogo_mark_jun"><color\=#ffde00>六月の俊幽</color>=<sprite name\="shogo_mark_jun"><color\=#ffde00>June's Swift Phantom</color>
+<sprite name\="shogo_mark_may"><color\=#ffde00>五月の俊幽</color>=<sprite name\="shogo_mark_may"><color\=#ffde00>May's Swift Phantom</color>
+<sprite name\="shogo_mark_dec"><color\=#ade0f1>十二月の英血</color>=<sprite name\="shogo_mark_dec"><color\=#ade0f1>December's Valiant Bloodletter</color>
+<sprite name\="shogo_mark_nov"><color\=#ade0f1>十一月の英血</color>=<sprite name\="shogo_mark_nov"><color\=#ade0f1>November's Valiant Bloodletter</color>
+<sprite name\="shogo_mark_oct"><color\=#ade0f1>十月の英血</color>=<sprite name\="shogo_mark_oct"><color\=#ade0f1>October's Valiant Bloodletter</color>
+<sprite name\="shogo_mark_sep"><color\=#ade0f1>九月の英血</color>=<sprite name\="shogo_mark_sep"><color\=#ade0f1>September's Valiant Bloodletter</color>
+<sprite name\="shogo_mark_feb"><color\=#ade0f1>二月の英幽</color>=<sprite name\="shogo_mark_feb"><color\=#ade0f1>February's Valiant Phantom</color>
+<sprite name\="shogo_mark_jan"><color\=#ade0f1>一月の英幽</color>=<sprite name\="shogo_mark_jan"><color\=#ade0f1>January's Valiant Phantom</color>
+<sprite name\="shogo_mark_nov"><color\=#ffde00>十一月の俊幽</color>=<sprite name\="shogo_mark_nov"><color\=#ffde00>November's Swift Phantom</color>
+<sprite name\="shogo_mark_oct"><color\=#ffde00>十月の俊幽</color>=<sprite name\="shogo_mark_oct"><color\=#ffde00>October's Swift Phantom</color>
+<sprite name\="shogo_mark_sep"><color\=#ffde00>九月の俊幽</color>=<sprite name\="shogo_mark_sep"><color\=#ffde00>September's Swift Phantom</color>
+<sprite name\="shogo_mark_aug"><color\=#ffde00>八月の俊花</color>=<sprite name\="shogo_mark_aug"><color\=#ffde00>August's Swift Bloom</color>
+<sprite name\="shogo_mark_jul"><color\=#ffde00>七月の俊花</color>=<sprite name\="shogo_mark_jul"><color\=#ffde00>July's Swift Bloom</color>
+<sprite name\="shogo_mark_jun"><color\=#ffde00>六月の俊花</color>=<sprite name\="shogo_mark_jun"><color\=#ffde00>June's Swift Bloom</color>
+<sprite name\="shogo_mark_may"><color\=#ffde00>五月の俊花</color>=<sprite name\="shogo_mark_may"><color\=#ffde00>May's Swift Bloom</color>
+<sprite name\="shogo_mark_apr"><color\=#ffde00>四月の俊花</color>=<sprite name\="shogo_mark_apr"><color\=#ffde00>April's Swift Bloom</color>
+<sprite name\="shogo_mark_mar"><color\=#ffde00>三月の俊花</color>=<sprite name\="shogo_mark_mar"><color\=#ffde00>March's Swift Bloom</color>
+<sprite name\="shogo_mark_dec"><color\=#ade0f1>十二月の英幽</color>=<sprite name\="shogo_mark_dec"><color\=#ade0f1>December's Valiant Phantom</color>
+<sprite name\="shogo_mark_jan"><color\=#ffde00>一月の俊花</color>=<sprite name\="shogo_mark_jan"><color\=#ffde00>January's Swift Bloom</color>
+<sprite name\="shogo_mark_feb"><color\=#ffde00>二月の俊花</color>=<sprite name\="shogo_mark_feb"><color\=#ffde00>February's Swift Bloom</color>
+<sprite name\="shogo_mark_dec"><color\=#ade0f1>十二月の英花</color>=<sprite name\="shogo_mark_dec"><color\=#ade0f1>December's Valiant Bloom</color>
+<sprite name\="shogo_mark_aug"><color\=#ffde00>八月の俊猫</color>=<sprite name\="shogo_mark_aug"><color\=#ffde00>August's Swift Cat</color>
+<sprite name\="shogo_mark_oct"><color\=#ffde00>十月の俊花</color>=<sprite name\="shogo_mark_oct"><color\=#ffde00>October's Swift Bloom</color>
+<sprite name\="shogo_mark_sep"><color\=#ffde00>九月の俊花</color>=<sprite name\="shogo_mark_sep"><color\=#ffde00>September's Swift Bloom</color>
+<sprite name\="shogo_mark_jul"><color\=#ffde00>七月の俊猫</color>=<sprite name\="shogo_mark_jul"><color\=#ffde00>July's Swift Cat</color>
+<sprite name\="shogo_mark_jun"><color\=#ffde00>六月の俊猫</color>=<sprite name\="shogo_mark_jun"><color\=#ffde00>June's Swift Cat</color>
+<sprite name\="shogo_mark_may"><color\=#ffde00>五月の俊猫</color>=<sprite name\="shogo_mark_may"><color\=#ffde00>May's Swift Cat</color>
+<sprite name\="shogo_mark_apr"><color\=#ffde00>四月の俊猫</color>=<sprite name\="shogo_mark_apr"><color\=#ffde00>April's Swift Cat</color>
+<sprite name\="shogo_mark_mar"><color\=#ffde00>三月の俊猫</color>=<sprite name\="shogo_mark_mar"><color\=#ffde00>March's Swift Cat</color>
+<sprite name\="shogo_mark_aug"><color\=#ade0f1>八月の英猫</color>=<sprite name\="shogo_mark_aug"><color\=#ade0f1>August's Valiant Cat</color>
+<sprite name\="shogo_mark_jul"><color\=#ade0f1>七月の英猫</color>=<sprite name\="shogo_mark_jul"><color\=#ade0f1>July's Valiant Cat</color>
+<sprite name\="shogo_mark_jun"><color\=#ade0f1>六月の英猫</color>=<sprite name\="shogo_mark_jun"><color\=#ade0f1>June's Valiant Cat</color>
+<sprite name\="shogo_mark_may"><color\=#ade0f1>五月の英猫</color>=<sprite name\="shogo_mark_may"><color\=#ade0f1>May's Valiant Cat</color>
+バディー=Buddy
+参百玖拾=Three Hundred Ninety
+参百参拾=Three Hundred Thirty
+参百=Three Hundred
+弐百漆拾=Two Hundred Seventy
+参百陸拾=Three Hundred Sixty
+共犯者=Accomplice
+弐百肆拾=Two Hundred Forty
+<sprite name\="shogo_mark_preyo"><color\=#03f50a>プロト・ファイター</color>=<sprite name\="shogo_mark_preyo"><color\=#03f50a>Proto Fighter</color>
+<sprite name\="shogo_mark_preyo"><color\=#07c3fb>プロト・エリート</color>=<sprite name\="shogo_mark_preyo"><color\=#07c3fb>Proto Elite</color>
+<sprite name\="shogo_mark_preyo"><color\=#fe50bc>プロト・エース</color>=<sprite name\="shogo_mark_preyo"><color\=#fe50bc>Proto Ace</color>
+鬼は外、服は内=Oni Out, Fortune In
+<sprite name\="shogo_mark_feb"><color\=#ffde00>二月の俊猫</color>=<sprite name\="shogo_mark_feb"><color\=#ffde00>February's Swift Cat</color>
+<sprite name\="shogo_mark_jan"><color\=#ffde00>一月の俊猫</color>=<sprite name\="shogo_mark_jan"><color\=#ffde00>January's Swift Cat</color>
+<sprite name\="shogo_mark_nov"><color\=#ade0f1>十一月の英花</color>=<sprite name\="shogo_mark_nov"><color\=#ade0f1>November's Valiant Bloom</color>
+<sprite name\="shogo_mark_jul"><color\=#ade0f1>七月の英花</color>=<sprite name\="shogo_mark_jul"><color\=#ade0f1>July's Valiant Bloom</color>
+<sprite name\="shogo_mark_jun"><color\=#ade0f1>六月の英花</color>=<sprite name\="shogo_mark_jun"><color\=#ade0f1>June's Valiant Bloom</color>
+<sprite name\="shogo_mark_may"><color\=#ade0f1>五月の英花</color>=<sprite name\="shogo_mark_may"><color\=#ade0f1>May's Valiant Bloom</color>
+<sprite name\="shogo_mark_apr"><color\=#ade0f1>四月の英花</color>=<sprite name\="shogo_mark_apr"><color\=#ade0f1>April's Valiant Bloom</color>
+<sprite name\="shogo_mark_mar"><color\=#ade0f1>三月の英花</color>=<sprite name\="shogo_mark_mar"><color\=#ade0f1>March's Valiant Bloom</color>
+<sprite name\="shogo_mark_feb"><color\=#ade0f1>二月の英花</color>=<sprite name\="shogo_mark_feb"><color\=#ade0f1>February's Valiant Bloom</color>
+<sprite name\="shogo_mark_jan"><color\=#ade0f1>一月の英花</color>=<sprite name\="shogo_mark_jan"><color\=#ade0f1>January's Valiant Bloom</color>
+<sprite name\="shogo_mark_nov"><color\=#ffde00>十一月の俊花</color>=<sprite name\="shogo_mark_nov"><color\=#ffde00>November's Swift Bloom</color>
+<sprite name\="shogo_mark_sep"><color\=#ade0f1>九月の英花</color>=<sprite name\="shogo_mark_sep"><color\=#ade0f1>September's Valiant Bloom</color>
+<color\=#ff1717>五十五寸釘</color>=<color\=#ff1717>55-Sun Nails</color>
+<sprite name\="shogo_mark_oct"><color\=#ade0f1>十月の英花</color>=<sprite name\="shogo_mark_oct"><color\=#ade0f1>October's Valiant Bloom</color>
+<sprite name\="shogo_mark_aug"><color\=#ade0f1>八月の英花</color>=<sprite name\="shogo_mark_aug"><color\=#ade0f1>August's Valiant Bloom</color>
+肆百弐拾=Four Hundred Twenty
+おしゃれ番長=Fashion Boss
+笑う門には服きたる=Clothes Come to Those Who Laugh
+<sprite name\="shogo_mark_towerha"><color\=#5fe7ff>塔</color><color\=#d78aff>見てせざるは</color><color\=#5fe7ff>勇</color><color\=#d78aff>無きなり</color>=<sprite name\="shogo_mark_towerha"><color\=#5fe7ff>Tower</color><color\=#d78aff> Unseen Is</color><color\=#5fe7ff> Cowardice</color><color\=#d78aff> Itself</color>
+タマシイが残り１つだヨ=Only 1 Tamashii Left!
+超人=Superhuman
+アシストキング=Assist King
+お手伝いさん=Helper
+<color\=#ff4ba0>白蕾</color>=<color\=#ff4ba0>White Bud</color>
+<color\=#e49bff>転移賢者</color>=<color\=#e49bff>Teleportation Sage</color>
+<color\=#ff1717>護り神</color>=<color\=#ff1717>Guardian Deity</color>
+<color\=#ff1717>剛力羅</color>=<color\=#ff1717>Mighty Asura</color>
+タマシイが残り２０だヨ=20 Tamashii Left!
+ウラオキナワの<color\=#ff2c9a>帝王</color>=Emperor of <color\=#ff2c9a>Ura-Okinawa</color>
+ウラオキナワの主=Lord of Ura-Okinawa
+ウラオキナワの番長=Boss of Ura-Okinawa
+<color\=#ffde00>輪廻の虜</color>=<color\=#ffde00>Captive of Samsara</color>
+<color\=#00e3ff>虚ろ姫</color>=<color\=#00e3ff>Hollow Princess</color>
+<sprite name\="shogo_mark_feb"><color\=#ffde00>二月の疾鬼</color>=<sprite name\="shogo_mark_feb"><color\=#ffde00>February's Rushing Demon</color>
+<sprite name\="shogo_mark_jan"><color\=#ffde00>一月の疾鬼</color>=<sprite name\="shogo_mark_jan"><color\=#ffde00>January's Rushing Demon</color>
+<sprite name\="shogo_mark_dec"><color\=#ffde00>十二月の疾鬼</color>=<sprite name\="shogo_mark_dec"><color\=#ffde00>December's Rushing Demon</color>
+絶対負けない=I Won't Lose
+もっと速く…っ！=Faster...!
+負けたくないッ！=I Don't Wanna Lose!
+<sprite name\="shogo_mark_sep"><color\=#ffde00>九月の俊叉</color>=<sprite name\="shogo_mark_sep"><color\=#ffde00>September's Swift Trident</color>
+<sprite name\="shogo_mark_oct"><color\=#ffde00>十月の俊叉</color>=<sprite name\="shogo_mark_oct"><color\=#ffde00>October's Swift Trident</color>
+<sprite name\="shogo_mark_nov"><color\=#ffde00>十一月の俊叉</color>=<sprite name\="shogo_mark_nov"><color\=#ffde00>November's Swift Trident</color>
+<sprite name\="shogo_mark_sep"><color\=#ade0f1>九月の英叉</color>=<sprite name\="shogo_mark_sep"><color\=#ade0f1>September's Valiant Trident</color>
+<sprite name\="shogo_mark_oct"><color\=#ade0f1>十月の英叉</color>=<sprite name\="shogo_mark_oct"><color\=#ade0f1>October's Valiant Trident</color>
+<sprite name\="shogo_mark_nov"><color\=#ade0f1>十一月の英叉</color>=<sprite name\="shogo_mark_nov"><color\=#ade0f1>November's Valiant Trident</color>
+<sprite name\="shogo_mark_feb"><color\=#ade0f1>二月の速鬼</color>=<sprite name\="shogo_mark_feb"><color\=#ade0f1>February's Speeding Demon</color>
+<sprite name\="shogo_mark_jan"><color\=#ade0f1>一月の速鬼</color>=<sprite name\="shogo_mark_jan"><color\=#ade0f1>January's Speeding Demon</color>
+<sprite name\="shogo_mark_dec"><color\=#ade0f1>十二月の速鬼</color>=<sprite name\="shogo_mark_dec"><color\=#ade0f1>December's Speeding Demon</color>
+<sprite name\="shogo_mark_nov"><color\=#ffde00>十一月の疾鬼</color>=<sprite name\="shogo_mark_nov"><color\=#ffde00>November's Rushing Demon</color>
+<sprite name\="shogo_mark_oct"><color\=#ffde00>十月の疾鬼</color>=<sprite name\="shogo_mark_oct"><color\=#ffde00>October's Rushing Demon</color>
+<sprite name\="shogo_mark_sep"><color\=#ffde00>九月の疾鬼</color>=<sprite name\="shogo_mark_sep"><color\=#ffde00>September's Rushing Demon</color>
+<sprite name\="shogo_mark_aug"><color\=#ffde00>八月の疾鬼</color>=<sprite name\="shogo_mark_aug"><color\=#ffde00>August's Rushing Demon</color>
+<sprite name\="shogo_mark_jul"><color\=#ffde00>七月の疾鬼</color>=<sprite name\="shogo_mark_jul"><color\=#ffde00>July's Rushing Demon</color>
+<sprite name\="shogo_mark_jun"><color\=#ffde00>六月の疾鬼</color>=<sprite name\="shogo_mark_jun"><color\=#ffde00>June's Rushing Demon</color>
+<sprite name\="shogo_mark_may"><color\=#ffde00>五月の疾鬼</color>=<sprite name\="shogo_mark_may"><color\=#ffde00>May's Rushing Demon</color>
+<sprite name\="shogo_mark_apr"><color\=#ffde00>四月の疾鬼</color>=<sprite name\="shogo_mark_apr"><color\=#ffde00>April's Rushing Demon</color>
+<sprite name\="shogo_mark_mar"><color\=#ffde00>三月の疾鬼</color>=<sprite name\="shogo_mark_mar"><color\=#ffde00>March's Rushing Demon</color>
+<sprite name\="shogo_mark_feb"><color\=#ffde00>二月の疾血</color>=<sprite name\="shogo_mark_feb"><color\=#ffde00>February's Rushing Bloodletter</color>
+<sprite name\="shogo_mark_jan"><color\=#ffde00>一月の疾血</color>=<sprite name\="shogo_mark_jan"><color\=#ffde00>January's Rushing Bloodletter</color>
+<sprite name\="shogo_mark_dec"><color\=#ffde00>十二月の疾血</color>=<sprite name\="shogo_mark_dec"><color\=#ffde00>December's Rushing Bloodletter</color>
+<sprite name\="shogo_mark_nov"><color\=#ade0f1>十一月の速鬼</color>=<sprite name\="shogo_mark_nov"><color\=#ade0f1>November's Speeding Demon</color>
+<sprite name\="shogo_mark_oct"><color\=#ade0f1>十月の速鬼</color>=<sprite name\="shogo_mark_oct"><color\=#ade0f1>October's Speeding Demon</color>
+<sprite name\="shogo_mark_sep"><color\=#ade0f1>九月の速鬼</color>=<sprite name\="shogo_mark_sep"><color\=#ade0f1>September's Speeding Demon</color>
+<sprite name\="shogo_mark_aug"><color\=#ade0f1>八月の速鬼</color>=<sprite name\="shogo_mark_aug"><color\=#ade0f1>August's Speeding Demon</color>
+<sprite name\="shogo_mark_jul"><color\=#ade0f1>七月の速鬼</color>=<sprite name\="shogo_mark_jul"><color\=#ade0f1>July's Speeding Demon</color>
+<sprite name\="shogo_mark_jun"><color\=#ade0f1>六月の速鬼</color>=<sprite name\="shogo_mark_jun"><color\=#ade0f1>June's Speeding Demon</color>
+<sprite name\="shogo_mark_may"><color\=#ade0f1>五月の速鬼</color>=<sprite name\="shogo_mark_may"><color\=#ade0f1>May's Speeding Demon</color>
+<sprite name\="shogo_mark_apr"><color\=#ade0f1>四月の速鬼</color>=<sprite name\="shogo_mark_apr"><color\=#ade0f1>April's Speeding Demon</color>
+<sprite name\="shogo_mark_mar"><color\=#ade0f1>三月の速鬼</color>=<sprite name\="shogo_mark_mar"><color\=#ade0f1>March's Speeding Demon</color>
+<sprite name\="shogo_mark_aug"><color\=#ffde00>八月の疾血</color>=<sprite name\="shogo_mark_aug"><color\=#ffde00>August's Rushing Bloodletter</color>
+<sprite name\="shogo_mark_jul"><color\=#ffde00>七月の疾血</color>=<sprite name\="shogo_mark_jul"><color\=#ffde00>July's Rushing Bloodletter</color>
+<sprite name\="shogo_mark_jun"><color\=#ffde00>六月の疾血</color>=<sprite name\="shogo_mark_jun"><color\=#ffde00>June's Rushing Bloodletter</color>
+<sprite name\="shogo_mark_may"><color\=#ffde00>五月の疾血</color>=<sprite name\="shogo_mark_may"><color\=#ffde00>May's Rushing Bloodletter</color>
+<sprite name\="shogo_mark_apr"><color\=#ffde00>四月の疾血</color>=<sprite name\="shogo_mark_apr"><color\=#ffde00>April's Rushing Bloodletter</color>
+<sprite name\="shogo_mark_mar"><color\=#ffde00>三月の疾血</color>=<sprite name\="shogo_mark_mar"><color\=#ffde00>March's Rushing Bloodletter</color>
+<sprite name\="shogo_mark_feb"><color\=#ffde00>二月の疾幽</color>=<sprite name\="shogo_mark_feb"><color\=#ffde00>February's Rushing Phantom</color>
+<sprite name\="shogo_mark_jan"><color\=#ffde00>一月の疾幽</color>=<sprite name\="shogo_mark_jan"><color\=#ffde00>January's Rushing Phantom</color>
+<sprite name\="shogo_mark_feb"><color\=#ade0f1>二月の速幽</color>=<sprite name\="shogo_mark_feb"><color\=#ade0f1>February's Speeding Phantom</color>
+<sprite name\="shogo_mark_jan"><color\=#ade0f1>一月の速幽</color>=<sprite name\="shogo_mark_jan"><color\=#ade0f1>January's Speeding Phantom</color>
+<sprite name\="shogo_mark_dec"><color\=#ade0f1>十二月の速幽</color>=<sprite name\="shogo_mark_dec"><color\=#ade0f1>December's Speeding Phantom</color>
+<sprite name\="shogo_mark_mar"><color\=#ffde00>三月の疾幽</color>=<sprite name\="shogo_mark_mar"><color\=#ffde00>March's Rushing Phantom</color>
+<sprite name\="shogo_mark_apr"><color\=#ffde00>四月の疾幽</color>=<sprite name\="shogo_mark_apr"><color\=#ffde00>April's Rushing Phantom</color>
+<sprite name\="shogo_mark_may"><color\=#ffde00>五月の疾幽</color>=<sprite name\="shogo_mark_may"><color\=#ffde00>May's Rushing Phantom</color>
+陸百=Six Hundred
+<sprite name\="shogo_mark_kac2023"><color\=#ffde00>三銃士</color>=<sprite name\="shogo_mark_kac2023"><color\=#ffde00>Three Musketeers</color>
+<sprite name\="shogo_mark_nov"><color\=#ade0f1>十一月の速叉</color>=<sprite name\="shogo_mark_nov"><color\=#ade0f1>November's Speeding Trident</color>
+<sprite name\="shogo_mark_oct"><color\=#ade0f1>十月の速叉</color>=<sprite name\="shogo_mark_oct"><color\=#ade0f1>October's Speeding Trident</color>
+<sprite name\="shogo_mark_sep"><color\=#ade0f1>九月の速叉</color>=<sprite name\="shogo_mark_sep"><color\=#ade0f1>September's Speeding Trident</color>
+<sprite name\="shogo_mark_aug"><color\=#ade0f1>八月の速叉</color>=<sprite name\="shogo_mark_aug"><color\=#ade0f1>August's Speeding Trident</color>
+<sprite name\="shogo_mark_jul"><color\=#ade0f1>七月の速叉</color>=<sprite name\="shogo_mark_jul"><color\=#ade0f1>July's Speeding Trident</color>
+<sprite name\="shogo_mark_jun"><color\=#ade0f1>六月の速叉</color>=<sprite name\="shogo_mark_jun"><color\=#ade0f1>June's Speeding Trident</color>
+<sprite name\="shogo_mark_may"><color\=#ade0f1>五月の速叉</color>=<sprite name\="shogo_mark_may"><color\=#ade0f1>May's Speeding Trident</color>
+<sprite name\="shogo_mark_apr"><color\=#ade0f1>四月の速叉</color>=<sprite name\="shogo_mark_apr"><color\=#ade0f1>April's Speeding Trident</color>
+<sprite name\="shogo_mark_mar"><color\=#ade0f1>三月の速叉</color>=<sprite name\="shogo_mark_mar"><color\=#ade0f1>March's Speeding Trident</color>
+伍百漆拾=Five Hundred Seventy
+伍百肆拾=Five Hundred Forty
+伍百拾=Five Hundred Ten
+肆百捌拾=Four Hundred Eighty
+肆百伍拾=Four Hundred Fifty
+サカサマツアー=Sakasama Tour
+６年連続６本目=6 Years Running, 6th Run
+<sprite name\="shogo_mark_jun"><color\=#ffde00>六月の疾幽</color>=<sprite name\="shogo_mark_jun"><color\=#ffde00>June's Rushing Phantom</color>
+<sprite name\="shogo_mark_jul"><color\=#ffde00>七月の疾幽</color>=<sprite name\="shogo_mark_jul"><color\=#ffde00>July's Rushing Phantom</color>
+<sprite name\="shogo_mark_aug"><color\=#ffde00>八月の疾幽</color>=<sprite name\="shogo_mark_aug"><color\=#ffde00>August's Rushing Phantom</color>
+<sprite name\="shogo_mark_sep"><color\=#ffde00>九月の疾幽</color>=<sprite name\="shogo_mark_sep"><color\=#ffde00>September's Rushing Phantom</color>
+<sprite name\="shogo_mark_oct"><color\=#ffde00>十月の疾幽</color>=<sprite name\="shogo_mark_oct"><color\=#ffde00>October's Rushing Phantom</color>
+<sprite name\="shogo_mark_nov"><color\=#ffde00>十一月の疾幽</color>=<sprite name\="shogo_mark_nov"><color\=#ffde00>November's Rushing Phantom</color>
+玖百陸拾=Nine Hundred Sixty
+玖百参拾=Nine Hundred Thirty
+玖百=Nine Hundred
+捌百漆拾=Eight Hundred Seventy
+捌百肆拾=Eight Hundred Forty
+捌百拾=Eight Hundred Ten
+漆百捌拾=Seven Hundred Eighty
+陸百参拾=Six Hundred Thirty
+陸百陸拾=Six Hundred Sixty
+陸百玖拾=Six Hundred Ninety
+漆百弐拾=Seven Hundred Twenty
+漆百伍拾=Seven Hundred Fifty
+玖百玖拾玖=Nine Hundred Ninety-Nine
+玖百玖拾=Nine Hundred Ninety
+<sprite name\="shogo_mark_apr"><color\=#ffde00>四月の疾閻</color>=<sprite name\="shogo_mark_apr"><color\=#ffde00>April's Rushing Hell-King</color>
+<sprite name\="shogo_mark_mar"><color\=#ffde00>三月の疾閻</color>=<sprite name\="shogo_mark_mar"><color\=#ffde00>March's Rushing Hell-King</color>
+<sprite name\="shogo_mark_feb"><color\=#ffde00>二月の疾閻</color>=<sprite name\="shogo_mark_feb"><color\=#ffde00>February's Rushing Hell-King</color>
+<sprite name\="shogo_mark_jan"><color\=#ffde00>一月の疾閻</color>=<sprite name\="shogo_mark_jan"><color\=#ffde00>January's Rushing Hell-King</color>
+ウラオキナワの支配者=Ruler of Ura-Okinawa
+ウラオキナワの顔=Face of Ura-Okinawa
+<color\=#00e3ff>ジョウカ550</color>=<color\=#00e3ff>Jouka 550</color>
+<color\=#e49bff>マラリヤ550</color>=<color\=#e49bff>Malariya 550</color>
+<sprite name\="shogo_mark_may"><color\=#ade0f1>五月の速閻</color>=<sprite name\="shogo_mark_may"><color\=#ade0f1>May's Speeding Hell-King</color>
+<sprite name\="shogo_mark_apr"><color\=#ade0f1>四月の速閻</color>=<sprite name\="shogo_mark_apr"><color\=#ade0f1>April's Speeding Hell-King</color>
+頭が高い！=Bow Your Head!
+<sprite name\="shogo_mark_kac"><color\=#01b9f1>め</color><color\=#c5dce3>ちゃ</color><color\=#01b9f1>つ</color><color\=#c5dce3>よ</color><sprite name\="shogo_mark_kacyo">=<sprite name\="shogo_mark_kac"><color\=#01b9f1>Su</color><color\=#c5dce3>per</color><color\=#01b9f1> Stro</color><color\=#c5dce3>ng</color><sprite name\="shogo_mark_kacyo">
+<sprite name\="shogo_mark_kac"><color\=#ffae00>さ</color><color\=#f9ff00>い</color><color\=#ffae00>き</color><color\=#f9ff00>ょー</color><sprite name\="shogo_mark_kacyo">=<sprite name\="shogo_mark_kac"><color\=#ffae00>Stro</color><color\=#f9ff00>ng</color><color\=#ffae00>e</color><color\=#f9ff00>st</color><sprite name\="shogo_mark_kacyo">
+<color\=#ee0000>あけおめ～</color>=<color\=#ee0000>Happy New Year~</color>
+<sprite name\="shogo_mark_jul"><color\=#ade0f1>七月の速閻</color>=<sprite name\="shogo_mark_jul"><color\=#ade0f1>July's Speeding Hell-King</color>
+<sprite name\="shogo_mark_jun"><color\=#ade0f1>六月の速閻</color>=<sprite name\="shogo_mark_jun"><color\=#ade0f1>June's Speeding Hell-King</color>
+<sprite name\="shogo_mark_mar"><color\=#ade0f1>三月の速閻</color>=<sprite name\="shogo_mark_mar"><color\=#ade0f1>March's Speeding Hell-King</color>
+<sprite name\="shogo_mark_feb"><color\=#ade0f1>二月の速閻</color>=<sprite name\="shogo_mark_feb"><color\=#ade0f1>February's Speeding Hell-King</color>
+<sprite name\="shogo_mark_jan"><color\=#ade0f1>一月の速閻</color>=<sprite name\="shogo_mark_jan"><color\=#ade0f1>January's Speeding Hell-King</color>
+<sprite name\="shogo_mark_nov"><color\=#ffde00>十一月の疾閻</color>=<sprite name\="shogo_mark_nov"><color\=#ffde00>November's Rushing Hell-King</color>
+<sprite name\="shogo_mark_oct"><color\=#ffde00>十月の疾閻</color>=<sprite name\="shogo_mark_oct"><color\=#ffde00>October's Rushing Hell-King</color>
+<sprite name\="shogo_mark_sep"><color\=#ffde00>九月の疾閻</color>=<sprite name\="shogo_mark_sep"><color\=#ffde00>September's Rushing Hell-King</color>
+<sprite name\="shogo_mark_aug"><color\=#ffde00>八月の疾閻</color>=<sprite name\="shogo_mark_aug"><color\=#ffde00>August's Rushing Hell-King</color>
+<sprite name\="shogo_mark_jul"><color\=#ffde00>七月の疾閻</color>=<sprite name\="shogo_mark_jul"><color\=#ffde00>July's Rushing Hell-King</color>
+<sprite name\="shogo_mark_jun"><color\=#ffde00>六月の疾閻</color>=<sprite name\="shogo_mark_jun"><color\=#ffde00>June's Rushing Hell-King</color>
+<color\=#ffef6c>美しき世界</color>=<color\=#ffef6c>Beautiful World</color>
+<color\=#ffef6c>開廷！地獄裁判</color>=<color\=#ffef6c>Court in Session! Hell's Judgment</color>
+<color\=#ffef6c>神の顔も三度まで</color>=<color\=#ffef6c>Even God's Patience Has Limits</color>
+<color\=#ffef6c>許すは神の心</color>=<color\=#ffef6c>To Forgive is Divine</color>
+<color\=#F7FF00>イベント日和♪</color>=<color\=#F7FF00>Perfect Day for an Event♪</color>
+参戦！限定マッチ=Joining the Fray! Limited Match
+<color\=#ff8916>みかん星人</color>=<color\=#ff8916>Mikan Alien</color>
+<color\=#ff8916>みかん屋さん</color>=<color\=#ff8916>Mikan Vendor</color>
+五つ葉のクローバー=Five-Leaf Clover
+しゃがめ～っ！=Get Down!
+神の中の神ィ～=God Among Gods
+特に死刑！！=Especially Death Penalty!!
+判決を下す！=Pass Judgment!
+<color\=#ffef6c>黙示録</color>=<color\=#ffef6c>Apocalypse</color>
+<color\=#ffef6c>人の子</color>=<color\=#ffef6c>Son of Man</color>
+<color\=#ffef6c>ネバーランド</color>=<color\=#ffef6c>Neverland</color>
+<sprite name\="shogo_mark_may"><color\=#ffde00>五月の疾閻</color>=<sprite name\="shogo_mark_may"><color\=#ffde00>May's Rushing Hell-King</color>
+駄犬=Mutt
+痴れ者っ！=You Fool!
+極めて有罪=Utterly Guilty
+１００億那由他光年=10 Billion Nayuta Light-Years
+世界に降臨した尊き光=A Sacred Light Descended Upon the World
+<color\=#ffef6c>閻王</color>=<color\=#ffef6c>King Yama</color>
+<color\=#ffef6c>放課後天地創造クラブ</color>=<color\=#ffef6c>After-School Genesis Club</color>
+<color\=#ff4ba0>黒白術専女学院</color>=<color\=#ff4ba0>Kokubyaku Sorcery Girls' Academy</color>
+<color\=#c0ff00>杏仁雑技芸術学校</color>=<color\=#c0ff00>Annin Acrobatic Arts School</color>
+<color\=#5fe7ff>聖ブルームーンカレッジ</color>=<color\=#5fe7ff>St. Blue Moon College</color>
+<color\=#ff067c>鬼ヶ丘体育高校</color>=<color\=#ff067c>Onigaoka P.E. High School</color>
+<color\=#FF8ab1>我がヨの</color><color\=#FF289E>春</color>=<color\=#FF8ab1>My World's</color><color\=#FF289E> Spring</color>
+<color\=#F7FF00>＼新生活応援／</color>=<color\=#F7FF00>＼New Life Cheer Squad／</color>
+<color\=#FF289E>お花見奉行</color>=<color\=#FF289E>Hanami Magistrate</color>
+<color\=#FF289E>さくらもちもち</color>=<color\=#FF289E>Sakura Mochi-Mochi</color>
+<color\=#FF8ab1>バレンタインチェイス</color>=<color\=#FF8ab1>Valentine Chase</color>
+<color\=#F464FF>オニは</color><color\=#47B0FF>外！！</color>=<color\=#F464FF>Oni</color><color\=#47B0FF> Out!!</color>
+<color\=#47B0FF>限定マッチの</color><color\=#F7FF00>達人！？</color>=<color\=#47B0FF>Limited Match</color><color\=#F7FF00> Master!?</color>
+<color\=#FF9200>ワッショイショイ♪</color>=<color\=#FF9200>Wasshoi-shoi♪</color>
+<sprite name\="shogo_mark_oct"><color\=#ffde00>十月の俊雷</color>=<sprite name\="shogo_mark_oct"><color\=#ffde00>October's Swift Thunder</color>
+<sprite name\="shogo_mark_nov"><color\=#ffde00>十一月の俊雷</color>=<sprite name\="shogo_mark_nov"><color\=#ffde00>November's Swift Thunder</color>
+<sprite name\="shogo_mark_jan"><color\=#ade0f1>一月の英雷</color>=<sprite name\="shogo_mark_jan"><color\=#ade0f1>January's Valiant Thunder</color>
+ウラシブヤの戦士=Warrior of Ura-Shibuya
+ウラシブヤの兵士=Soldier of Ura-Shibuya
+ランナーズハイ=Runner's High
+オニ派=Team Oni
+ヒト派=Team Human
+アウトドア派=Outdoorsy Type
+インドア派=Indoorsy Type
+<sprite name\="shogo_mark_dec"><color\=#ffde00>十二月の俊呪</color>=<sprite name\="shogo_mark_dec"><color\=#ffde00>December's Swift Curse</color>
+<sprite name\="shogo_mark_feb"><color\=#ade0f1>二月の英雷</color>=<sprite name\="shogo_mark_feb"><color\=#ade0f1>February's Valiant Thunder</color>
+<sprite name\="shogo_mark_mar"><color\=#ade0f1>三月の英雷</color>=<sprite name\="shogo_mark_mar"><color\=#ade0f1>March's Valiant Thunder</color>
+サカサマ号=The Sakasama
+第４の挑戦者=4th Challenger
+<sprite name\="shogo_mark_tower25"><color\=#ff0066>伝説の</color><color\=#5fe7ff>塔の</color><color\=#ff55fc>下</color>=<sprite name\="shogo_mark_tower25"><color\=#ff0066>Beneath</color><color\=#5fe7ff> the Legendary</color><color\=#ff55fc> Tower</color>
+サカサマの民=People of Sakasama
+続々・挑戦者たち=More Challengers
+<sprite name\="shogo_mark_tower25"><color\=#ff0066>タワー・</color><color\=#5fe7ff>オブ・</color><color\=#ff55fc>ジョーカー</color>=<sprite name\="shogo_mark_tower25"><color\=#ff0066>Tower・</color><color\=#5fe7ff>of・</color><color\=#ff55fc>Joker</color>
+サカサマ作戦=Operation Sakasama
+続・挑戦者たち=Challengers Continued
+ウラオオサカの戦士=Warrior of Ura-Osaka
+ウラオオサカの兵士=Soldier of Ura-Osaka
+ウラオオサカ<color\=#ff2c9a>大将軍</color>=Ura-Osaka <color\=#ff2c9a>Grand General</color>
+ウラシブヤ<color\=#ff2c9a>大将軍</color>=Ura-Shibuya <color\=#ff2c9a>Grand General</color>
+<sprite name\="shogo_mark_apr"><color\=#ade0f1>四月の英雷</color>=<sprite name\="shogo_mark_apr"><color\=#ade0f1>April's Valiant Thunder</color>
+<sprite name\="shogo_mark_may"><color\=#ade0f1>五月の英雷</color>=<sprite name\="shogo_mark_may"><color\=#ade0f1>May's Valiant Thunder</color>
+<sprite name\="shogo_mark_jun"><color\=#ade0f1>六月の英雷</color>=<sprite name\="shogo_mark_jun"><color\=#ade0f1>June's Valiant Thunder</color>
+<sprite name\="shogo_mark_jul"><color\=#ade0f1>七月の英雷</color>=<sprite name\="shogo_mark_jul"><color\=#ade0f1>July's Valiant Thunder</color>
+<sprite name\="shogo_mark_aug"><color\=#ade0f1>八月の英雷</color>=<sprite name\="shogo_mark_aug"><color\=#ade0f1>August's Valiant Thunder</color>
+<sprite name\="shogo_mark_sep"><color\=#ffde00>九月の俊雷</color>=<sprite name\="shogo_mark_sep"><color\=#ffde00>September's Swift Thunder</color>
