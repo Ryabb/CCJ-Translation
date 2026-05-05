@@ -6,7 +6,7 @@ A fan-made English translation for the Konami arcade game **Chase Chase Jokers**
 
 ## Installation
 
-Download the latest release zip from the [Releases](../../releases/latest) page, extract it, and copy the contents into your Chase Chase Jokers game directory. Then launch via spice64:
+Download the latest release zip from the [Releases](../../releases/latest) page, extract it, and copy the contents into your Chase Chase Jokers contents directory. Then launch via spice64:
 
 ```
 spice64.exe -k doorstop.dll [your other options]
