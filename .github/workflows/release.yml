@@ -75,5 +75,5 @@ jobs:
           name: CCJ-Translation ${{ steps.version.outputs.version }}
           prerelease: ${{ steps.version.outputs.prerelease }}
           body: |
-            **Install:** Extract the zip and copy the `BepInEx/` folder into your Chase Chase Jokers game directory. Launch with `spice64.exe -k doorstop.dll`.
+            **Install:** Extract the zip and copy the `BepInEx/` folder into your Chase Chase Jokers contents folder. Launch with `spice64.exe -k doorstop.dll`.
           files: CCJ-Translation-${{ steps.version.outputs.version }}.zip
