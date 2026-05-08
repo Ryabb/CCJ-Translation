@@ -189,14 +189,14 @@ def load_existing_keys(text_dir):
 
 
 SCENE_FOLDERS = {
-    'card_entry', 'character_setting', 'chat', 'common', 'gameover',
-    'gameplay', 'matching', 'mode_select', 'result', 'sakasamatower',
-    'shop', 'stage', 'tutorial',
+    'card_entry', 'character_setting', 'chat', 'common', 'event_2nd',
+    'gameover', 'gameplay', 'matching', 'mode_select', 'result',
+    'sakasamatower', 'shop', 'stage', 'tutorial',
 }
 
 
 def get_scene(fname):
-    m = re.match(r'sactx-\d+-\d+x\d+-\w+-([a-z_]+)-', fname)
+    m = re.match(r'sactx-\d+-\d+x\d+-\w+-([a-z0-9_]+)-', fname)
     if m:
         return m.group(1)
     if fname.startswith('matching_rank_'):
@@ -294,7 +294,7 @@ def organise_textures(texture_dir, mark_translated=False, base=None):
         sort_loose_files(untranslated_dir, '_untranslated', texture_dir, moved)
         for entry in sorted(os.listdir(untranslated_dir)):
             entry_path = os.path.join(untranslated_dir, entry)
-            if os.path.isdir(entry_path) and entry.lower() not in SCENE_FOLDERS:
+            if os.path.isdir(entry_path) and entry.lower() not in SCENE_FOLDERS and entry.lower() != 'ignored':
                 sort_loose_files(entry_path, os.path.join('_untranslated', entry), texture_dir, moved)
 
     # If translating: remove any copies of the same file from _untranslated/
