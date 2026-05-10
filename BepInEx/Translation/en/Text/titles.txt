@@ -154,7 +154,7 @@
 天才的ぃ=Genius-like
 にげるですにゃ=I need to escape from here, meow.
 鬼チョロ♪=Demon Choro♪
-降りましませ=Please go down / Let me get down
+降りましませ=Let me get down
 堕ちましょう=Let's fall.
 逝きましょう=Let us go.
 Ｖｅｒｔｉｃａｌ Ｓｌａｓｈ=Vertical Slash
@@ -162,7 +162,7 @@
 狂った剣帝=The Mad Sword Emperor
 えいえいおー=Eieiō
 たぶん絶対=Probably absolutely
-前進あるのみ=Forward is the only way / Nothing but moving forward
+前進あるのみ=Nothing but moving forward
 オペ開始♪=Surgery start♪
 だぱはぁー=Dapahaa~
 ばぶた～ん=Babutan~
@@ -301,7 +301,7 @@
 トラベラー=Traveler
 ぴょんぴょんぴょん♪=Boing boing boing♪
 ヨっちゃん堂=Yocchan Hall
-散財しました=I scattered my money / I spent money wastefully
+散財しました=I spent money wastefully
 <color\=#c600ff>散財しました</color>=<color\=#c600ff>I squandered money</color>
 <color\=#e953ff>散財しました</color>=<color\=#e953ff>I squandered money</color>
 お大尽さま=Your Lordship
@@ -1100,7 +1100,7 @@
 十二月の俊呪=December's Excellent Curse
 <sprite name\="shogo_mark_dec"><color\=#ff8400>十二月の俊呪</color>=<sprite name\="shogo_mark_dec"><color\=#ff8400>December's Shun Curse</color>
 <sprite name\="shogo_mark_dec"><color\=#ffde00>十二月の俊呪</color>=<sprite name\="shogo_mark_dec"><color\=#ffde00>December's Shun Curse</color>
-インドア派=Indoor person / Stay-at-home type
+インドア派=Stay-at-home type
 アウトドア派=Outdoor enthusiast
 ヒト派=Human Faction
 オニ派=Oni Faction
@@ -1170,7 +1170,7 @@ Dummy=Dummy
 闇の住人=Inhabitant of Darkness
 <color\=#0036ff>闇の住人</color>=<color\=#0036ff>Inhabitant of Darkness</color>
 <color\=#5fe7ff>闇の住人</color>=<color\=#5fe7ff>Dweller of Darkness</color>
-生き血をすする=Drinking fresh blood / Sucking fresh blood
+生き血をすする=Sucking fresh blood
 <color\=#0036ff>生き血をすする</color>=<color\=#0036ff>Drinking fresh blood</color>
 <color\=#5fe7ff>生き血をすする</color>=<color\=#5fe7ff>Drinking fresh blood</color>
 血も涙もない=Heartless and merciless
@@ -1183,7 +1183,7 @@ Dummy=Dummy
 <color\=#b8ad00>背水の陣</color>=<color\=#b8ad00>Fighting with one's back to the wall</color>
 <color\=#c0ff00>背水の陣</color>=<color\=#c0ff00>Back Against the Wall</color>
 四面楚歌=On All Sides Besieged
-<color\=#b8ad00>四面楚歌</color>=<color\=#b8ad00>Surrounded on all sides / Besieged from all directions</color>
+<color\=#b8ad00>四面楚歌</color>=<color\=#b8ad00>Besieged from all directions</color>
 <color\=#c0ff00>四面楚歌</color>=<color\=#c0ff00>Surrounded on all sides</color>
 捲土重来=Make a comeback
 <color\=#b8ad00>捲土重来</color>=<color\=#b8ad00>Making a comeback</color>
@@ -1503,7 +1503,7 @@ Dummy=Dummy
 引っ込めぇ！！=Back off!!
 曼殊沙華=Spider Lily
 彼岸斬=Higan Slash
-絶対負けない=I will absolutely not lose / I will never lose
+絶対負けない=I will never lose
 もっと速く…っ！=Faster... now!
 負けたくないッ！=I don't want to lose!
 九月の俊叉=Shunmatata of September
