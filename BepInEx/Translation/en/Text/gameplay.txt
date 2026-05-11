@@ -85,7 +85,7 @@
 条件無し=No Conditions
 サカサマタワー・序=Sakasama Tower - Intro
 未挑戦=Not Attempted
-走る事に青春を燃やす女子高生・\n赤鬼カギコ\n陸上で世界一になるという彼女の夢は\nある事故によって砕け散る\n絶望の淵にあるカギコの心の歪みを奴\nは見逃さなかった=A high schooler who burned her youth running—\nAkaoni Kagiko.\nHer dream of becoming the world's fastest\nwas shattered in an accident.\nHe didn't overlook the fracture in Kagiko's heart\nas she stood at the edge of despair.
+走る事に青春を燃やす女子高生・\n赤鬼カギコ\n陸上で世界一になるという彼女の夢は\nある事故によって砕け散る\n絶望の淵にあるカギコの心の歪みを奴\nは見逃さなかった=A high schooler who burned her youth running-\nAkaoni Kagiko.\nHer dream of becoming the world's fastest\nwas shattered in an accident.\nHe didn't overlook the fracture in Kagiko's heart\nas she stood at the edge of despair.
 岩の刃が地面を伝って飛んでいくよ\n壁とかあっても貫通するみたい=Stone blades fly along the ground.\nThey seem to pierce right through walls.
 高速で突進して敵を吹き飛ばすよ\n効果中は再使用で方向転換も可能だ=Charges forward at high speed, blasting enemies away. Can reactivate mid-rush to change direction.
 マッチング中…=Matching...
@@ -174,7 +174,7 @@
 アイテム（１）=Items (1)
 スピードアップシューズ\n一定時間移動速度が上昇するよ=Speed-Up Shoes\nTemporarily boosts movement speed.
 不死　ミヨミ=Shinazu Miyomi
-中央国から雑技団の特待生としてやっ\nてきた少女・不死ミヨミ\n自分を育ててくれた祖母が亡くなった\n時、彼女は自分を呪う\n祖母が生き返るなら何でもする…\nそんな魂を奴に魅入られる=A scholarship acrobat from the Central Kingdom—\nShinazu Miyomi.\nWhen the grandmother who raised her passed,\nshe began to curse herself.\n"I'd do anything to bring her back..."\nAnd a soul like hers caught his eye.
+中央国から雑技団の特待生としてやっ\nてきた少女・不死ミヨミ\n自分を育ててくれた祖母が亡くなった\n時、彼女は自分を呪う\n祖母が生き返るなら何でもする…\nそんな魂を奴に魅入られる=A scholarship acrobat from the Central Kingdom-\nShinazu Miyomi.\nWhen the grandmother who raised her passed,\nshe began to curse herself.\n"I'd do anything to bring her back..."\nAnd a soul like hers caught his eye.
 敵全員に呪術を放つよ\n追いかけてくる印に捕まると動きが制限されるんだ=Casts a curse on all enemies.\nGetting caught by the chasing seals restricts movement.
 ジャンプやスライディングで障害物を越えた時にダッシュゲージが回復するよ=Dash Gauge recovers when clearing obstacles by jumping or sliding.
 ダッシュゲージが半分以下の時はダッシュゲージの回復速度が上昇するよ=Dash Gauge recovery speed rises when it's below half.
@@ -200,11 +200,11 @@
 気絶からの回復が早くなるよ=Recover from Stun faster.
 ギミックの扱いが上手くなるよ\nシャッターとかワープとかジャンプポイントとか=Improves skill with gimmicks\nlike Shutters, Warps, and Jump Points.
 敵全員に爆弾の雨を降らせるよ\n爆弾は触れるか一定時間で爆発するみたい=Rains bombs on all enemies.\nBombs detonate on contact or after a short time.
-モモコから買ってもらったアイスを落\nとしてしまったパイン\nアイスを落とす前からやり直すために\n作ったタイムマシンの故障で、別次元\nに来てしまったパインの事を奴は大い\nに気に入った=Pine dropped the ice cream\nMomoko bought for her.\nThe time machine she built to undo it\nmalfunctioned, stranding her in another dimension—\nand he took quite a liking\nto that particular Pine.
+モモコから買ってもらったアイスを落\nとしてしまったパイン\nアイスを落とす前からやり直すために\n作ったタイムマシンの故障で、別次元\nに来てしまったパインの事を奴は大い\nに気に入った=Pine dropped the ice cream\nMomoko bought for her.\nThe time machine she built to undo it\nmalfunctioned, stranding her in another dimension-\nand he took quite a liking\nto that particular Pine.
 ジャンプで障害物を越えた時にスキルゲージが少し回復するよ=Clearing obstacles by jumping slightly recovers your Skill Gauge.
 ジャンプボタンまたはスペシャルボタンを押している間落下速度がゆるやかになるよ=Hold Jump or Special to slow your descent.
 高速で空中に大きく飛び上がるよ\n固有アビリティと組み合わせるのが有効だ=Leaps high into the air at high speed.\nEffective when combined with her unique ability.
-愛に彷徨うシリアルキラー・\n最愛チアモ\n９つの偽愛を葬り、遂に彼女は真実の\n愛へたどり着く\nその愛は奴の力をも越え、最愛のあな\nたに会いに来たのだった=A serial killer lost in love—\nSaiai Chiamo.\nAfter burying nine false loves,\nshe finally reached true love.\nThat love surpassed even his power,\nand she came to meet her beloved.
+愛に彷徨うシリアルキラー・\n最愛チアモ\n９つの偽愛を葬り、遂に彼女は真実の\n愛へたどり着く\nその愛は奴の力をも越え、最愛のあな\nたに会いに来たのだった=A serial killer lost in love-\nSaiai Chiamo.\nAfter burying nine false loves,\nshe finally reached true love.\nThat love surpassed even his power,\nand she came to meet her beloved.
 最愛　チアモ=Saiai Chiamo
 タマシイカウントが1の時にジュウデン速度が上昇するよ=Charge speed rises when Tamashii Count is 1.
 オニが近くにいる間はキーパワーを獲得し続けるよ=Continuously gain Key Power while an Oni is nearby.
@@ -216,7 +216,7 @@
 いかなる時でもマイペースな謎少女\n人を食ったような態度と妖しい言動で\nしばしば周囲を惑わせる\n「面白そう」と感じたことには労力をい\nとわない=A mysterious girl who moves at her own pace, always.\nHer mocking attitude and eerie words and actions\nleave those around her bewildered.\nWhen something strikes her as "fun,"\nshe'll spare no effort to pursue it.
 タマシイカウントが3の時にダッシュゲージの消費量が減少するよ=Dash Gauge consumption drops when Tamashii Count is 3.
 近くの敵１体の足元を忌み地に変えるよ\nその呪いに触れた敵は気絶してしまうんだ=Turns the ground beneath one nearby enemy into cursed earth.\nAny enemy touching the curse is stunned.
-名家首塚家。その黒の巫女であるツバ\nキは気づいた\n強いものに縋るという浅慮が故、弱い\n自分は取り込まれたのだと\n弱い皆が自分と同じ思いをしないよう\n私が救済してあげなくちゃ…=Tsubaki, Black Priestess of the prestigious Kubitsuka family,\nhas come to realize—\nher weak self was consumed\nfrom the shallow impulse of clinging to the strong.\nSo the weak don't share her fate,\nshe must be the one to save them...
+名家首塚家。その黒の巫女であるツバ\nキは気づいた\n強いものに縋るという浅慮が故、弱い\n自分は取り込まれたのだと\n弱い皆が自分と同じ思いをしないよう\n私が救済してあげなくちゃ…=Tsubaki, Black Priestess of the prestigious Kubitsuka family,\nhas come to realize-\nher weak self was consumed\nfrom the shallow impulse of clinging to the strong.\nSo the weak don't share her fate,\nshe must be the one to save them...
 首塚　ツバキ【廻】=Kubitsuka Tsubaki [Reincarnated]
 敵を倒した時に相手のスキルゲージを奪い取るよ=Steal the opponent's Skill Gauge when you defeat them.
 キーパワー所持量が多いほどジュウデン速度が上昇するよ=The more Key Power you hold, the faster you charge.
@@ -227,7 +227,7 @@
 スキルを使用した時、自分以外の味方のスキルゲージが少し回復するよ=Using a skill slightly recovers the Skill Gauge of other allies.
 貰える経験値は勝敗、貢献度、獲得メダルなどによって決まるよ=EXP earned depends on win/loss, contribution, medals, and more.
 経験値=EXP
-足に病を抱えつつもカギコに生きる希\n望を見出した少女・華我錠ジョウカ\nカギコが誰かを庇った事故により、彼\n女を超える夢は砕け散る\nカギコと勝負する夢を叶えるため一番\n大事な記憶をアノコに差し出した=Hanagajou Jouka—a girl who found hope in Kagiko\ndespite the disease in her legs.\nHer dream of surpassing Kagiko was shattered\nby the accident that happened while Kagiko shielded someone.\nTo realize her dream of racing Kagiko,\nshe offered her most precious memory to Ano-ko.
+足に病を抱えつつもカギコに生きる希\n望を見出した少女・華我錠ジョウカ\nカギコが誰かを庇った事故により、彼\n女を超える夢は砕け散る\nカギコと勝負する夢を叶えるため一番\n大事な記憶をアノコに差し出した=Hanagajou Jouka-a girl who found hope in Kagiko\ndespite the disease in her legs.\nHer dream of surpassing Kagiko was shattered\nby the accident that happened while Kagiko shielded someone.\nTo realize her dream of racing Kagiko,\nshe offered her most precious memory to Ano-ko.
 ボタンを押し続けることで射程を広げ、離すと同時に前方を斬り払うよ=Hold the button to extend the range, release to slash forward.
 どきどき陰陽=Heart-Pounding Yin-Yang
 取得速度=Acquisition Speed
@@ -264,8 +264,8 @@
 ダッシュゲージ回復速度上昇（劣勢時）=Dash Gauge Recovery Speed Up (When Behind)
 引き分け=Draw
 時間内にどちらのチームもデグチに入れなかった場合は引き分けだよ=If neither team reaches the Exit in time, the match is a draw.
-授業中は静かで真面目な女の子\n非常に人見知りであり、人と目をあわ\nせて会話することが苦手\nとある施設のバグを切っ掛けに狼の力\nを取り込んだ。剣を握ると覚醒し\n闘いを求める狂気の剣士へ変貌する=A quiet, serious girl during class,\nKureha is extremely shy and struggles\nto make eye contact when speaking.\nA glitch at a certain facility let her absorb\nthe power of a wolf. When she grips a sword, she awakens—\ntransforming into a crazed swordsman hungry for battle.
-長射程の斬撃を放つよ\nボタンを押している間は狙いを変えられて離すと発動だ=Unleashes a long-range slash.\nHold the button to aim, release to fire—stuns on hit.
+授業中は静かで真面目な女の子\n非常に人見知りであり、人と目をあわ\nせて会話することが苦手\nとある施設のバグを切っ掛けに狼の力\nを取り込んだ。剣を握ると覚醒し\n闘いを求める狂気の剣士へ変貌する=A quiet, serious girl during class,\nKureha is extremely shy and struggles\nto make eye contact when speaking.\nA glitch at a certain facility let her absorb\nthe power of a wolf. When she grips a sword, she awakens-\ntransforming into a crazed swordsman hungry for battle.
+長射程の斬撃を放つよ\nボタンを押している間は狙いを変えられて離すと発動だ=Unleashes a long-range slash.\nHold the button to aim, release to fire-stuns on hit.
 味方がやられた時と自分が敵を倒した時に一定時間移動速度が速くなるよ=Temporarily boosts movement speed when an ally is downed or you defeat an enemy.
 敵を倒すと一定時間ダッシュゲージの消費量が大きく下がるよ=Defeating an enemy greatly reduces Dash Gauge consumption for a limited time.
 敵が近くにいるとスキルゲージの回復速度が上昇するよ=Skill Gauge recovers faster when enemies are nearby.
@@ -342,7 +342,7 @@ DNSサーバー\n=DNS Server\n
 キーパワーハツデンキの下にいる間自動でジュウデンされるよ=Automatically charges while standing under a Key Power Generator.
 ジャンプやスライディング中はアビリティゲ\nージが上昇し、満タン時にダッシュボタンを押すと瞬間的に加速するよ=Ability Gauge rises during jumps and slides.\nAt full, press Dash for an instant burst of speed.
 前方に雷を落とし、オニの速度を上げてヒトの速度を下げるエリアを生成するよ=Calls down lightning ahead, creating an area that speeds up Oni and slows down Humans.
-寺生まれの軽音少女・骸雷ミロクは苦悩\nしていた\nなぜ人は悪いと知りながら手を汚し、\n同じ過ちを繰り返すのか\nそんな迷いの中アノコの説いた正義は\n刺激的で、最高にROCKなのであった=Gairai Miroku—a temple-born light music club girl—\nwas tormented.\nWhy do people dirty their hands knowing it's wrong,\nrepeating the same mistakes again and again?\nAmid her doubts, the justice Ano-ko preached\nwas electrifying, and totally ROCK.
+寺生まれの軽音少女・骸雷ミロクは苦悩\nしていた\nなぜ人は悪いと知りながら手を汚し、\n同じ過ちを繰り返すのか\nそんな迷いの中アノコの説いた正義は\n刺激的で、最高にROCKなのであった=Gairai Miroku-a temple-born light music club girl-\nwas tormented.\nWhy do people dirty their hands knowing it's wrong,\nrepeating the same mistakes again and again?\nAmid her doubts, the justice Ano-ko preached\nwas electrifying, and totally ROCK.
 輪廻の雷=Thunder of Samsara
 イナズマ☆ミＲＯＣＫ=Inazuma☆Mi ROCK
 移動速度=Movement Speed
@@ -380,7 +380,7 @@ DNSサーバー\n=DNS Server\n
 アクアブルー家=Aquablue Family
 鉄の味=Taste of Iron
 ニンニク反対=Down with Garlic
-帰りたい…=I want to go home…
+帰りたい…=I want to go home...
 ドレミロク！=DoReMiROCK!
 デスサイズ=Death Scythe
 なまくら=Dull Blade
@@ -390,7 +390,7 @@ DNSサーバー\n=DNS Server\n
 名前=Name
 キラースライディング=Killer Sliding
 マラリヤを元に作られた「エボルグリ\nム」の少女\nマラリヤとは異なりとにかく弱気で余\n裕が無く、常に他人の顔色を伺ってい\nる。その態度が加虐心を煽るともっぱ\nらの評判=A girl from the "EvolGrim" line, modeled on Malariya.\nUnlike her original, she's timid and anxious,\nalways reading others' expressions.\nThat attitude, rumor has it,\ntends to stoke sadistic impulses in those around her.
-最強にして最狂の怪異・花子に\n道徳的観念など存在しない\n楽しいか楽しくないかだけが理\nそしてある夜彼女のトイレの来客に\n花子の心は躍る。怪異に悩める少女は\n極上の玩具にしか見えていない=For Hanako, the strongest and most deranged of horrors,\nmorality is meaningless.\nFun or not-fun—that's her only logic.\nThen one night, a visitor comes to her toilet,\nand Hanako's heart leaps. A girl tormented by spirits\nlooks to her like nothing but a first-rate toy.
+最強にして最狂の怪異・花子に\n道徳的観念など存在しない\n楽しいか楽しくないかだけが理\nそしてある夜彼女のトイレの来客に\n花子の心は躍る。怪異に悩める少女は\n極上の玩具にしか見えていない=For Hanako, the strongest and most deranged of horrors,\nmorality is meaningless.\nFun or not-fun-that's her only logic.\nThen one night, a visitor comes to her toilet,\nand Hanako's heart leaps. A girl tormented by spirits\nlooks to her like nothing but a first-rate toy.
 赤鬼カギコについて=About Akaoni Kagiko
 天翅の風=Wind of Heavenly Wings
 ジュウデン速度上昇（キーパワー依存/多）=Charge Speed Up (Key Power Dependent/High)
@@ -820,7 +820,7 @@ AP回復（ゲーム開始時）=AP Recovery (Match Start)
 アビリティゲージに応じてダッシュが速くなるヨ\n※敵を倒すとUP/倒されるとDOWN=Dash speed scales with Ability Gauge.\n*Defeating enemies raises it; being defeated lowers it.
 花子のペット達を召喚するヨ\n敵はペットに触れただけでダウンするんだ=Summons Hanako's pets.\nEnemies go down just from touching them.
 ギミックの扱いが上手くなるヨ\nシャッターとかワープとかジャンプポイントとか=Improves skill with gimmicks\nlike Shutters, Warps, and Jump Points.
-長射程の斬撃を放つヨ\nボタンを押している間は狙いを変えられて離すと発動だ=Unleashes a long-range slash.\nHold the button to aim, release to fire—stuns on hit.
+長射程の斬撃を放つヨ\nボタンを押している間は狙いを変えられて離すと発動だ=Unleashes a long-range slash.\nHold the button to aim, release to fire-stuns on hit.
 高速で空中に大きく飛び上がるヨ\n固有アビリティと組み合わせるのが有効だ=Leaps high into the air at high speed.\nEffective when combined with her unique ability.
 範囲内の敵が持つアイテムを毒薬に変えるヨ=Turns items held by enemies in range into Poison.
 アイテムやスキルを使用するとアビリティゲージが増加して、ゲージがある間は味方のダッシュ能力が強化されるヨ\n\n※ゲージは徐々に減少するけどダッシュしている間は減らないヨ=Using items or skills fills the Ability Gauge, boosting ally dash performance.\n\n*Gauge slowly drains, but not while dashing.
@@ -856,7 +856,9 @@ AP回復（ゲーム開始時）=AP Recovery (Match Start)
 チュートリアルをプレー=Play Tutorial
 サブモニターの解像度が正しくありません。\n現在の解像度　1920 x 1080\nサブモニターが正しく接続されているか\n確認してください。\r\n=Sub monitor resolution is incorrect.\nCurrent: 1920 x 1080\nPlease verify the sub monitor is properly connected.\r\n
 本番回線(EA000013)\r\nリリースビルド\r\n=Production line (EA000013)\r\nRelease build\r\n
+なな=Nana
 れいれい！=Reirei!
+カルシウム=Calcium
 ～ 2026-04-19 23:59:59 UTC まで=~ Until 2026-04-19 23:59:59 UTC
 シュテン=Shuten
 アウリー=Auri
@@ -904,3 +906,33 @@ AP回復（ゲーム開始時）=AP Recovery (Match Start)
 【練習中】を獲得しました=Obtained [In Practice]
 パル=Pal
 ３／３回=3/3 times
+本番回線(EA001964)\r\nリリースビルド\r\n=Production network (EA001964)\r\nRelease build\r\n
+当社が<color\=#bb0000>不適切行為と判断した場合、\r</color>\nお客様の了承を得ることなく<color\=#bb0000>プレーデータの変更や削除</color>などの措置を\n\rとらせていただくことがあります。予めご了承ください。\r=If we determine that <color\=#bb0000>inappropriate conduct has occurred,\r</color>\nwe may take measures such as <color\=#bb0000>modifying or deleting your play data</color>\n\rwithout your prior consent. Please be aware of this.\r
+上記内容に同意いただけますか？=Do you agree to the above?
+・倫理観に欠ける不適切な文字や言葉の入力\r\n・他のプレーヤーに対する誹謗中傷\n\r・故意に電源を切ったり、ネットワークを遮断するなどして\n\r　プレー結果のセーブを回避する行為\n\r・その他、ゲームの公平性を阻害する行為\r=・Entering ethically inappropriate characters or language\r\n・Slandering or harassing other players\n\r・Deliberately cutting power or disconnecting the network\n\r　to avoid saving play results\n\r・Any other acts that disrupt the fairness of the game\r
+データ消失について=About Data Loss
+プレーヤーの皆様へのお願い=A Request to All Players
+すべてのプレーヤーに楽しく遊んでいただくため<color\=#dc3096>以下の不適切行為を禁止</color>いたします=To ensure all players have a fun experience, <color\=#dc3096>the following inappropriate acts are prohibited</color>.
+回線障害などに起因したデータ消失について、\n\rゲーム機器やｅ-ａｍｕｓｅｍｅｎｔ ｐａｓｓ販売機などの設置店舗、\n\rおよび当社では責任を負いません。\r=For data loss caused by network issues or similar problems,\n\rneither the venues hosting the game machines and e-amusement pass vending machines,\n\rnor our company, will be held responsible.\r
+<color\=#F9FF00>新規登録</color>します。ご希望の<color\=#F9FF00>暗証番号</color>を入力してください=Starting <color\=#F9FF00>new registration</color>. Please enter your desired <color\=#F9FF00>PIN</color>.
+新規入力=New Entry
+連続した番号（0000、1111 ～ 9999）は登録できません=Sequential numbers (0000, 1111 ~ 9999) cannot be registered.
+確認のため、もう一度入力してください=Please enter once more to confirm.
+登録が<color\=#F9FF00>完了</color>しました=Registration <color\=#F9FF00>complete</color>!
+カードナンバー（ユーザーコード）について=About Your Card Number (User Code)
+スキップ\n=Skip\n
+入力されたプレーヤー名はランキングやゲームプレーに必要な表示のため\n「チェイスチェイスジョーカーズ」のゲーム画面、当社ウェブサイトやＰＣソフト、\r\n当社グループのｅ-ａｍｕｓｅｍｅｎｔ関連のモバイルアプリで公開される可能性があります。\n<color\=#0000ff>氏名や電話番号、メールアドレス等個人を特定できるものを入力しないようにお願いします。</color>=Your entered player name may be shown publicly on the "Chase Chase Jokers" game screen, our website, PC software,\r\nand our group's e-amusement-related mobile apps for use in rankings and gameplay displays.\n<color\=#0000ff>Please do not enter information that could personally identify you, such as your name, phone number, or email address.</color>
+ネームエントリー=Name Entry
+ご希望の<color\=#F9FF00>プレーヤー名</color>を入力してください=Please enter your desired <color\=#F9FF00>player name</color>.
+なおゲームスタート時にプレーヤー名表示設定ボタンから、ランキングでのプレーヤー名の表示ＯＮ/ＯＦＦを\n切り替えることができます。=You can also toggle player name display ON/OFF in rankings via the player name display settings button at game start.
+大文字=Uppercase
+設定=Settings
+ｅ-ａｍｕｓｅｍｅｎｔサイト【ｈｔｔｐ:\/\/ｅａｇａｔｅ.５７３.ｊｐ/】\r=e-amusement site [http:\/\/eagate.573.jp/]\r
+<color\=#F9FF00>暗証番号</color>が<color\=#EE4696>違い</color>ます！　<color\=#EE4696>もう一度入力</color>してください=<color\=#F9FF00>PIN</color> is <color\=#EE4696>incorrect</color>! Please <color\=#EE4696>enter it again</color>.
+ＰＡＳＥＬＩを使用しました。\n<size\=80%>\n使用   　　　１００円\n残高   　　　　　０円</size>=PASELI used.\n<size\=80%>\nUsed:    　　　 100 yen\nBalance:           0 yen</size>
+ツバキ【廻】のスタンプ帳=Tsubaki [Reincarnated]'s Stamp Book
+２０２７/０５/１２　８：５９まで=Until 2027/05/12 8:59
+ギアをＧＥＴ！=Gear GET!
+【Ｅａｓｔ Ｃａｐｉｔａｌ】を獲得しました=Obtained [East Capital]
+～ 2026-05-17 23:59:59 UTC まで=~ Until 2026-05-17 23:59:59 UTC
+<color\=#faef38>スタンプ</color>を集めて<color\=#faef38>ＣＤ</color>をＧＥＴしよう！=Collect <color\=#faef38>Stamps</color> to GET a <color\=#faef38>CD</color>!

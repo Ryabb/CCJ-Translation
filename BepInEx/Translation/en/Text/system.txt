@@ -4,7 +4,7 @@
 ジョーカーチェイスはじまるヨ～=Joker Chase is starting!
 このゲーム機は チームＡ です=This machine is Team A
 限定マッチング中=Restricted Matching
-ｅ-ａｍｕｓｅｍｅｎｔ ｐａｓｓを確認しています。しばらくお待ちください…=Verifying e-amusement pass. Please wait…
+ｅ-ａｍｕｓｅｍｅｎｔ ｐａｓｓを確認しています。しばらくお待ちください…=Verifying e-amusement pass. Please wait...
 カード認証=Card Authentication
 あと1コイン=1 coin left
 クレジット=Credit
@@ -142,3 +142,4 @@ TESTボタンを押しながらSERVICEボタン \= 中止=Hold TEST + press SERV
 ｅ-ａｍｕｓｅｍｅｎｔサイト【ｈｔｔｐ:\/\/ｅａｇａｔｅ.５７３.ｊｐ/】\r=e-amusement site [http:\/\/eagate.573.jp/]\r
 以下が正しく消費されずに\n電源が落とされた可能性があります。\n\r\n　<color\=magenta>スタート（ＰＡＳＥＬＩ）</color>\r\n\n<color\=#808080>最終シーン：モードセレクト</color>\r\n=The power may have been turned off before the following was properly consumed:\n\r\n　<color\=magenta>Start (PASELI)</color>\r\n\n<color\=#808080>Last scene: Mode Select</color>\r\n
 ｅ-ａｍｕｓｅｍｅｎｔサイト【ｈｔｔｐ:\/\/ｅａｇａｔｅ.５７３.ｊｐ/】\r=e-amusement site [http:\/\/eagate.573.jp/]\r
+以下が正しく消費されずに\n電源が落とされた可能性があります。\n\r\n　<color\=magenta>スタート（クレジット）</color>\r\n\n<color\=#808080>最終シーン：モードセレクト</color>\r\n=The power may have been turned off before the following was properly consumed:\n\r\n　<color\=magenta>Start (Credit)</color>\r\n\n<color\=#808080>Last scene: Mode Select</color>\r\n
