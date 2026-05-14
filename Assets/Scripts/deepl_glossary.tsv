@@ -1,0 +1,457 @@
+# DeepL Glossary for Chase Chase Jokers
+# Format: japanese_term<TAB>english_translation
+#
+# Lines starting with # are comments and ignored.
+# Empty lines are ignored.
+# Terms are case-sensitive on the Japanese side.
+# DeepL applies glossary entries to whole words when possible.
+#
+# This file is uploaded to DeepL as a glossary, then referenced by ID in
+# translation requests. The verify_with_deepl.py script handles this automatically.
+#
+# Notes on glossary behavior:
+# - DeepL matches whole-word terms; partial matches inside compounds may not trigger
+# - Glossaries are JA→EN-US specific (a separate one would be needed for other language pairs)
+# - You can have up to 1,000 glossary entries on the free tier
+# - Updates require re-uploading (the script does this automatically when this file changes)
+
+# ============================================================
+# CORE GAME TERMINOLOGY
+# ============================================================
+
+オニ	Oni
+ヒト	Human
+デグチ	Exit
+タマシイ	Souls
+キーパワー	Key Power
+キーパワーハツデンキ	Key Power Generator
+ジュウデン	Charge
+充電	Charge
+チェイスチェイスジョーカーズ	Chase Chase Jokers
+ジョーカーチェイス	Joker Chase
+オニごっこ	game of tag
+ネガイ	Wish
+サカサマ	Sakasama
+サカサマタワー	Sakasama Tower
+サカサマ山脈	Sakasama Mountains
+サカサマランド	Sakasama Land
+迷路城	Maze Castle
+ヨっちゃん	Yocchan
+ヨっちゃん堂	Yocchan-do
+コブン	Kobun
+REDRUM	REDRUM
+本目	Run
+
+# ============================================================
+# MAP NAMES (hyphenated form locked in)
+# ============================================================
+
+ウラオオサカ	Ura-Osaka
+ウラシブヤ	Ura-Shibuya
+ウラオキナワ	Ura-Okinawa
+
+# ============================================================
+# CHARACTER NAMES (Hepburn, family-given order)
+# ============================================================
+
+悪亜チノン	Akua Chinon
+赤鬼カギコ	Akaoni Kagiko
+首塚ボタン	Kubitsuka Botan
+首塚ツバキ	Kubitsuka Tsubaki
+死涼ミヨミ	Shinazu Miyomi
+華ヶ城ジョウカ	Hanagajou Jouka
+跡部クルル	Atobe Kururu
+我来ミロク	Gairai Miroku
+最愛チアモ	Saiai Chiamo
+紅刃	Kureha
+パイン	Pine
+グリム・マラリヤ	Grim Malariya
+天獄エンマ邪水	Tengoku Enma Jasui
+花子	Hanako
+貞子	Sadako
+
+# ============================================================
+# CHARACTER NAMES (katakana variants commonly used)
+# ============================================================
+
+チノン	Chinon
+カギコ	Kagiko
+ボタン	Botan
+ツバキ	Tsubaki
+ミヨミ	Miyomi
+ジョウカ	Jouka
+クルル	Kururu
+ミロク	Miroku
+チアモ	Chiamo
+マラリヤ	Malariya
+廻	Alternative
+
+# ============================================================
+# SKILL NAMES (locked in across skills.txt and gameplay.txt)
+# ============================================================
+
+ハイジャンプ	High Jump
+アムールオーバードーズ	Amour Overdose
+天翅の風	Wind of Heavenly Wings
+怨讐呪殺参り	Vengeful Curse Pilgrimage
+紅牙一閃	Crimson Fang Flash
+呪霊ノ展	Spread of Curse Spirits
+パインボム	Pine Bomb
+勅令	Imperial Decree
+勅命	Imperial Command
+怨気	Rancor
+どきどき陰陽	Heart-Pounding Yin-Yang
+わくわく陰陽	Thrilling Yin-Yang
+彼岸斬	Far-Shore Slash
+輪廻の雷	Thunder of Samsara
+曼珠沙華	Manjushage
+曼殊沙華	Manjushage
+羅神岩	Rashin Rock
+羅生岩	Rashouiwa
+
+# ============================================================
+# CHARACTER FORMS — Oni transformation costume parts
+# Each character has a "human form" outfit (制服/靴) and an
+# "Oni form" outfit (鬼装束/鬼靴) for when they transform.
+# ============================================================
+
+# Generic form-piece terms
+制服	Uniform
+靴	Shoes
+鬼装束	Oni Garb
+鬼靴	Oni Shoes
+鬼帽子	Oni Hat
+装束	Garb
+フォーム	Form
+フォーム解放	Form Release
+サカサマフォーム	Sakasama Form
+オニフォーム	Oni Form
+ヒトフォーム	Human Form
+解放	Release
+
+# Character form references — Human form
+チノンの制服	Chinon's Uniform
+チノンの靴	Chinon's Shoes
+カギコの制服	Kagiko's Uniform
+カギコの靴	Kagiko's Shoes
+ボタンの制服	Botan's Uniform
+ボタンの靴	Botan's Shoes
+ミヨミの制服	Miyomi's Uniform
+ミヨミの靴	Miyomi's Shoes
+ジョウカの制服	Jouka's Uniform
+ジョウカの靴	Jouka's Shoes
+クルルの制服	Kururu's Uniform
+クルルの靴	Kururu's Shoes
+ミロクの制服	Miroku's Uniform
+ミロクの靴	Miroku's Shoes
+パインの制服	Pine's Uniform
+パインの靴	Pine's Shoes
+パインのベレー帽	Pine's Beret
+チアモの制服	Chiamo's Uniform
+チアモの靴	Chiamo's Shoes
+マラリヤの制服	Malariya's Uniform
+マラリヤの靴	Malariya's Shoes
+グリム・マラリヤの制服	Grim Malariya's Uniform
+グリム・マラリヤの靴	Grim Malariya's Shoes
+ツバキ【廻】の制服	Tsubaki [Reincarnated]'s Uniform
+ツバキ【廻】の靴	Tsubaki [Reincarnated]'s Shoes
+
+# Character form references — Oni form costume
+チノンの鬼装束	Chinon's Oni Garb
+チノンの鬼靴	Chinon's Oni Shoes
+カギコの鬼装束	Kagiko's Oni Garb
+カギコの鬼靴	Kagiko's Oni Shoes
+ミヨミの鬼装束	Miyomi's Oni Garb
+ミヨミの鬼靴	Miyomi's Oni Shoes
+ミヨミの鬼帽子	Miyomi's Oni Hat
+ジョウカの鬼装束	Jouka's Oni Garb
+ジョウカの鬼靴	Jouka's Oni Shoes
+クルルの鬼装束	Kururu's Oni Garb
+クルルの鬼靴	Kururu's Oni Shoes
+ミロクの鬼装束	Miroku's Oni Garb
+ミロクの鬼靴	Miroku's Oni Shoes
+パインの鬼装束	Pine's Oni Garb
+パインの鬼靴	Pine's Oni Shoes
+チアモの鬼装束	Chiamo's Oni Garb
+チアモの鬼靴	Chiamo's Oni Shoes
+花子の鬼装束	Hanako's Oni Garb
+花子の鬼靴	Hanako's Oni Shoes
+ツバキ【廻】の鬼装束	Tsubaki [Reincarnated]'s Oni Garb
+ツバキ【廻】の鬼靴	Tsubaki [Reincarnated]'s Oni Shoes
+
+# Character-specific weapons (Oni form weapons)
+チノンの斧	Chinon's Axe
+カギコの金棒	Kagiko's Kanabou
+ミヨミの鉄球	Miyomi's Iron Ball
+ジョウカの大包丁	Jouka's Cleaver
+クルルのメス	Kururu's Scalpel
+ミロクの鎌	Miroku's Scythe
+パインのアルティメットマジカルポテトマッシャー	Pine's Ultimate Magical Potato Masher
+チアモの裁ちばさみ	Chiamo's Dressmaking Shears
+ツバキの５５寸釘	Tsubaki's 55-Sun Nails
+花子のランドセル	Hanako's Randoseru
+
+# Special accessories
+カギコのリボン（誕生日ｖｅｒ.）	Kagiko's Ribbon (Birthday ver.)
+クルルの制服（誕生日ｖｅｒ.）	Kururu's Uniform (Birthday ver.)
+チノンの制服（誕生日ｖｅｒ.）	Chinon's Uniform (Birthday ver.)
+ボタンの制服（誕生日ｖｅｒ.）	Botan's Uniform (Birthday ver.)
+
+# ============================================================
+# SKILL NAMES (Main skills — full list from skills.txt)
+# ============================================================
+
+# Character signature main skills
+罪と罰	Crime and Punishment
+
+# Sub-skill / Universal skill names (from skills.txt)
+カモフラージュ	Camouflage
+キラースライディング	Killer Sliding
+サクラモチ	Sakura Mochi
+シェアサーチ	Share Search
+ジャンボスイカ	Jumbo Watermelon
+ステップイン	Step-In
+スローチェイス	Slow Chase
+ズームアウト	Zoom Out
+ダッシュゲージダッシュ	Dash Gauge Dash
+ダッシュゲージチャージ	Dash Gauge Charge
+ダッシュゲージ回復アップ	Dash Gauge Recovery Up
+チーム速度上昇	Team Speed Up
+ドラゴンフルーツ	Dragon Fruit
+メインスキルチャージ	Main Skill Charge
+リターン	Return
+速度上昇	Speed Up
+
+# Character signature passive abilities (固有 / signature) — from abilities.txt
+プワゾンガール	Poison Girl
+予定不調和	Pre-Established Disharmony
+イナズマ☆ミＲＯＣＫ	Inazuma☆Mi ROCK
+白衣のポンコツ天使	Clumsy Angel in a White Coat
+陸上部の元エース	Former Track & Field Ace
+陸上部の現エース	Current Track & Field Ace
+中央国からの特待生	Scholarship Student from the Central Kingdom
+呪われた血	Cursed Blood
+自称ＩＱ１００億	Self-Proclaimed IQ of 10 Billion
+剣帝	Sword Emperor
+黒の巫女	Black Priestess
+巫女の力	Priestess's Power
+サカサマの現エース	Current Ace of Sakasama
+
+# ============================================================
+# MAPS / STAGE NAMES
+# ============================================================
+
+# Base map names (already locked)
+ウラオオサカ2	Ura-Osaka 2
+ウラオオサカ3	Ura-Osaka 3
+ウラシブヤ2	Ura-Shibuya 2
+ウラシブヤ3	Ura-Shibuya 3
+ウラオキナワ2	Ura-Okinawa 2
+ウラオキナワ3	Ura-Okinawa 3
+ウラオオサカ２	Ura-Osaka 2
+ウラオオサカ３	Ura-Osaka 3
+ウラシブヤ２	Ura-Shibuya 2
+ウラシブヤ３	Ura-Shibuya 3
+ウラオキナワ２	Ura-Okinawa 2
+ウラオキナワ３	Ura-Okinawa 3
+
+# Sakasama Tower (the dungeon mode)
+サカサマタワー・序	Sakasama Tower - Intro
+サカサマタワー・破	Sakasama Tower - Break
+サカサマタワー・急	Sakasama Tower - Rapid
+
+# Map-related player titles
+ウラオオサカの主	Lord of Ura-Osaka
+ウラオオサカの番長	Boss of Ura-Osaka
+ウラオオサカの支配者	Ruler of Ura-Osaka
+ウラオオサカの顔	Face of Ura-Osaka
+ウラオオサカの戦士	Warrior of Ura-Osaka
+ウラオオサカの兵士	Soldier of Ura-Osaka
+ウラオキナワの主	Lord of Ura-Okinawa
+ウラオキナワの番長	Boss of Ura-Okinawa
+ウラオキナワの支配者	Ruler of Ura-Okinawa
+ウラオキナワの顔	Face of Ura-Okinawa
+ウラオキナワの戦士	Warrior of Ura-Okinawa
+ウラオキナワの兵士	Soldier of Ura-Okinawa
+ウラシブヤの主	Lord of Ura-Shibuya
+ウラシブヤの番長	Boss of Ura-Shibuya
+ウラシブヤの支配者	Ruler of Ura-Shibuya
+ウラシブヤの顔	Face of Ura-Shibuya
+ウラシブヤの戦士	Warrior of Ura-Shibuya
+ウラシブヤの兵士	Soldier of Ura-Shibuya
+
+# Tower counter (本目 = "Run" — the counter for tower attempts)
+
+# ============================================================
+# GAME MECHANICS (English UI labels)
+# ============================================================
+
+スキル	Skill
+サブスキル	Sub-Skill
+メインスキル	Main Skill
+スキルゲージ	Skill Gauge
+ダッシュ	Dash
+ダッシュゲージ	Dash Gauge
+スライディング	Slide
+ジャンプ	Jump
+アイテム	Item
+アイテムカプセル	Item Capsule
+ハイジャンプフェザー	High Jump Feather
+アクションボタン	Action button
+ダッシュボタン	Dash button
+トラックボール	Trackball
+コントローラー	Controller
+固有	Signature
+撃破	Defeat
+ダウン	Down
+発動	Activate
+脱出	Escape
+勝利	Victory
+敗北	Defeat
+チェイン	Chain
+帰還	Return
+復路	Return Leg
+往路	Outbound Leg
+走行距離	Run Distance
+貢献度	Contribution
+称号	Title
+
+# ============================================================
+# GAME MECHANICS (English UI labels)
+# ============================================================
+
+# ============================================================
+# UI ELEMENTS
+# ============================================================
+
+設定	Settings
+決定	Confirm
+キャンセル	Cancel
+次	Next
+前	Prev
+所持	Owned
+商品切替	Switch Item
+商品一覧	Item List
+ランキング	Rankings
+暗証番号	PIN
+プレーヤー名	player name
+新規登録	new registration
+ネームエントリー	Name Entry
+
+# ============================================================
+# EVENTS / MINI-GAMES
+# ============================================================
+
+チェイスチェイストレジャーズ	Chase Chase Treasures
+ライブde出張ヨっちゃん堂	Live de Yocchan-do On Tour
+BINGO BINGO JOKERS	BINGO BINGO JOKERS
+エキデン	Ekiden
+お宝	Treasure
+ペンライト	Penlight
+補助券	Voucher
+くじ	lottery
+スタンプ	Stamp
+
+# ============================================================
+# FOODS / COSMETICS / ITEMS
+# ============================================================
+
+イカ焼き	Ikayaki
+焼きとうもろこし	Grilled Corn
+桜餅	Sakura Mochi
+おにぎり	Onigiri
+お弁当	Bento
+バラ	Rose
+関東風	Kanto Style
+関西風	Kansai Style
+ヨっちゃんキャンディ	Yocchan Candy
+
+# ============================================================
+# COMMON VERBS / ADJECTIVES (game-specific renderings)
+# ============================================================
+
+獲得しました	Obtained
+獲得	Obtained
+集めて	Collect
+ヨ	!
+オマエ達	you
+オマエ	you
+本気	for keeps
+健闘を祈る	good luck
+
+
+# ============================================================
+# MUSIC / SONG-RELATED (keep as Japanese per BEMANI convention)
+# ============================================================
+
+アーティスト名	artist name
+曲名	song name
+楽曲	track
+オフボーカル	off-vocal
+オンボーカル	vocal
+インスト	Inst.
+
+# ============================================================
+# TEAM / ALLY / ENEMY TERMINOLOGY
+# Ensures consistent rendering of "your team" vs "enemies"
+# across ability descriptions and mid-match prompts.
+# ============================================================
+
+# Ally terms — all map to "ally / allies" or "teammate" for consistency
+味方	allies
+味方の	allies'
+味方チーム	allied team
+味方チームの	allied team's
+仲間	teammate
+仲間の	teammates'
+チームメイト	teammate
+自分	self
+自分の	your own
+自分以外	other players
+自分達	your team
+オマエ達	you
+オマエ	you
+オマエ達のチーム	your team
+オマエ達のチームが	your team
+プレーヤー	player
+プレーヤー名	player name
+味方スキルゲージ	ally Skill Gauge
+味方スキルゲージ回復	Ally Skill Gauge Recovery
+
+# Enemy terms — all map to "enemy" for consistency  
+敵	enemy
+敵の	enemy's
+敵チーム	enemy team
+敵チームの	enemy team's
+相手	opponent
+相手の	opponent's
+相手チーム	enemy team
+相手チームの	enemy team's
+他の人	other players
+他のプレーヤー	other players
+敵移動速度	enemy movement speed
+敵移動速度減少	Enemy Movement Speed Decrease
+
+# Magnitude qualifiers (commonly appear in ability descriptions)
+（中）	(Medium)
+（大）	(Large)
+（小）	(Small)
+（特大）	(Extra Large)
+（極小）	(Tiny)
+（激近）	(Very Close)
+（接敵時）	(On Engagement)
+（非接敵時）	(Off Engagement)
+（劣勢時）	(When Losing)
+（危機時）	(In Crisis)
+（協力）	(Cooperation)
+（自分用）	(For Self)
+（味方／近）	(Ally / Close)
+（キル時）	(On Kill)
+（被キル時）	(On Being Killed)
+（復活時）	(On Revival)
+（ゲーム開始時）	(On Game Start)
+（ターン開始時）	(On Turn Start)
+（ヒト開始時）	(On Human Start)
+（タマシイ1）	(Souls 1)
+（タマシイ2）	(Souls 2)
+（タマシイ3）	(Souls 3)

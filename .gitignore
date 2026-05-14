@@ -12,6 +12,11 @@ BepInEx/LogOutput.log
 __pycache__/
 *.pyc
 
+# DeepL tool outputs
+deepl_cache.txt
+deepl_glossary_id.txt
+deepl_verification_report.tsv
+
 # Build output
 CCJ-Translation*.zip
 

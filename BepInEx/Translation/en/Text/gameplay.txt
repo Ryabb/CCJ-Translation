@@ -5,8 +5,8 @@
 お持ちでない方は<color\=#F9FF00>ゲストスタート</color>をタッチしてください=If you don't have one, tap <color\=#F9FF00>GUEST START</color>
 【獲得称号名】を獲得=Obtained [Title Name]
 アビリティをＧＥＴ！=Ability GET!
-稼働記念です=Launch Commemoration
-<color\=#02c2fd>文字</color>で<color\=#f7ff00>ログインボーナス</color>名<color\=#ff3e9f>入れる</color>=<color\=#02c2fd>Text</color> for <color\=#f7ff00>Login Bonus</color> name <color\=#ff3e9f>goes here</color>
+稼働記念です=To celebrate our launch
+<color\=#02c2fd>文字</color>で<color\=#f7ff00>ログインボーナス</color>名<color\=#ff3e9f>入れる</color>=<color\=#02c2fd>Enter the name of the login bonus in text</color>
 名前名前名前名前=Name name name name
 スキル名スキル名スキ=Skill name Skill name Ski
 スキル名=Skill name
@@ -17,18 +17,18 @@
 ああああああああああああああああああああ\r\nああああああああああああああああああああ\r\nああああああああああああああああああああ\r\nああああああああああああああああああああ\r=Ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah\r
 <size\=24>６</size>日目=Day <size\=24>６</size>
 <size\=24>７</size>日目=Day <size\=24>７</size>
-<size\=24>１２</size>日目=Day <size\=24>１２</size>
+<size\=24>１２</size>日目=Day 12
 <size\=24>２</size>日目=Day <size\=24>２</size>
-<size\=24>１３</size>日目=Day <size\=24>１３</size>
-<size\=24>１０</size>日目=Day <size\=24>１０</size>
+<size\=24>１３</size>日目=Day 13
+<size\=24>１０</size>日目=Day 10
 <size\=24>５</size>日目=Day <size\=24>５</size>
 <size\=24>３</size>日目=Day <size\=24>３</size>
 <size\=24>９</size>日目=Day <size\=24>９</size>
 <size\=24>１</size>日目=Day <size\=24>１</size>
 <size\=24>８</size>日目=Day <size\=24>８</size>
-<size\=24>１４</size>日目=Day <size\=24>１４</size>
-<size\=24>１５</size>日目=Day <size\=24>１５</size>
-<size\=24>１１</size>日目=Day <size\=24>１１</size>
+<size\=24>１４</size>日目=Day 14
+<size\=24>１５</size>日目=Day 15
+<size\=24>１１</size>日目=Day 11
 <size\=24>４</size>日目=Day <size\=24>４</size>
 所持上限に達した「キャラクターの欠片」は「ギア」に変換されます。="Character Fragments" exceeding the carry limit will be converted to "Gear".
 【アビリティ名】=[Ability Name]
@@ -36,13 +36,12 @@
 カメラ=Camera
 パインをＧＥＴしました！=Got Pine!
 ゴールドトロフィー=Gold Trophy
-シーズン１開催！！=Season 1 Now On!!
-<color\=#FDB933>カメラ</color>を<color\=#02C0FC>後ろ</color>に向けよう！=Point your <color\=#FDB933>Camera</color> <color\=#02C0FC>behind you</color>!
+シーズン１開催！！=Season 1 is here!!
+<color\=#FDB933>カメラ</color>を<color\=#02C0FC>後ろ</color>に向けよう！=<color\=#FDB933>Let's turn the camera around!</color>
 サーチ=Search
-羅生岩=Rashouiwa
 テキ3=Enemy 3
 テキ2=Enemy 2
-<color\=#FDB933>キーパワー</color>まで移動しよう=Move to the <color\=#FDB933>Key Power</color>!
+<color\=#FDB933>キーパワー</color>まで移動しよう=<color\=#FDB933>Let's head over to Key Power</color>
 <color\=#FDB933>ジャンプ</color>して\n<color\=#FDB933>キーパワー</color>まで移動しよう=<color\=#FDB933>Jump</color> to reach the\n<color\=#FDB933>Key Power</color>!
 テキ1=Enemy 1
 ミカタ2=Ally 2
@@ -51,13 +50,13 @@
 ここに今やることをメモ\nあいうえおかきくけこさしすせそた\nちつてと=Jot notes about what you're doing here\nabcdefghijklmnopqrstu\nvwxyz
 敵チームのジュウデン量を\n\r99％以下に抑えて勝利=Win by holding enemy team's Charge\n\runder 99%
 難易度=Difficulty
-やるやないけ！　その調子で\\n敵のチェックポイントも攻撃してみい！=Nice one! Keep it up and\ngo hit the enemy checkpoints too!
+やるやないけ！　その調子で\\n敵のチェックポイントも攻撃してみい！=Way to go! Keep it up—try attacking the enemy's checkpoint too!
 {rank}位=Rank {rank}
-<color\=#02C0FC>ダッシュボタン</color>を押しながら\n<color\=#02C0FC>移動</color>してみよう=Hold the <color\=#02C0FC>Dash button</color>\nwhile you <color\=#02C0FC>Move</color>!
+<color\=#02C0FC>ダッシュボタン</color>を押しながら\n<color\=#02C0FC>移動</color>してみよう=<color\=#02C0FC>Let's try moving while holding down the Dash button</color>
 ページコンプリート報酬=Page Complete Reward
-特殊効果=Special Effect
+特殊効果=Special Effects
 サカサマタワー１本目=Sakasama Tower: Run 1
-<color\=#02C0FC>ヒト</color>を攻撃してみよう=Attack a <color\=#02C0FC>Human</color>!
+<color\=#02C0FC>ヒト</color>を攻撃してみよう=<color\=#02C0FC>Let's try attacking a human</color>
 <color\=#FDB933>スキル</color>を使って<color\=#02C0FC>ヒト</color>を\n攻撃してみよう=Use a <color\=#FDB933>Skill</color> to\nattack a <color\=#02C0FC>Human</color>!
 <color\=#FDB933>アイテムカプセル</color>を開けてみよう=Open an <color\=#FDB933>Item Capsule</color>!
 アイテム=Item
@@ -69,25 +68,18 @@
 なし=None
 味方チームはアイテム使用禁止\n=Allies can't use items\n
 残り時間５０以上残して勝利=Win with 50+ seconds remaining
-サカサマタワー・序 ４本目=Sakasama Tower - Intro: Run 4
-サカサマタワー・序 ３本目=Sakasama Tower - Intro: Run 3
-サカサマタワー・序 ２本目=Sakasama Tower - Intro: Run 2
-サカサマタワー・破 ４本目=Sakasama Tower - Break: Run 4
-サカサマタワー・破 ３本目=Sakasama Tower - Break: Run 3
-ダッシュを続けるとギアが上がって速くなるよ=Keep dashing to shift gears and go faster!
+ダッシュを続けるとギアが上がって速くなるよ=If you keep running on Dash, you'll shift into a higher gear and go faster.
 悪亜　チノン=Akua Chinon
 赤鬼　カギコ=Akaoni Kagiko
-ターゲットナビが出ている時間が長くなるよ=Target Navi stays active longer.
+ターゲットナビが出ている時間が長くなるよ=The Target Nav will stay on the screen longer.
 一定時間ミニマップに敵の位置が表示されるようになるよ=Temporarily shows enemy positions on the Mini Map.
-ゲームが開始する時スキルゲージが少し溜まった状態から始まるよ=The Skill Gauge starts partially filled at the start of the match.
-サカサマタワー・破 ２本目=Sakasama Tower - Break: Run 2
+ゲームが開始する時スキルゲージが少し溜まった状態から始まるよ=When the game starts, your Skill Gauge will already be partially charged.
 ※<color\=#f7fc00>店内のプレーヤーとマッチング</color>できます。マッチングした場合は<color\=#f7fc00>チーム内で一番浅い階</color>に挑戦します=※You can be <color\=#f7fc00>matched with player(s) in the store</color>.\nIf matched, you'll enter the <color\=#f7fc00>shallowest floor anyone on the team has cleared</color>.
 条件無し=No Conditions
-サカサマタワー・序=Sakasama Tower - Intro
 未挑戦=Not Attempted
-走る事に青春を燃やす女子高生・\n赤鬼カギコ\n陸上で世界一になるという彼女の夢は\nある事故によって砕け散る\n絶望の淵にあるカギコの心の歪みを奴\nは見逃さなかった=A high schooler who burned her youth running-\nAkaoni Kagiko.\nHer dream of becoming the world's fastest\nwas shattered in an accident.\nHe didn't overlook the fracture in Kagiko's heart\nas she stood at the edge of despair.
-岩の刃が地面を伝って飛んでいくよ\n壁とかあっても貫通するみたい=Stone blades fly along the ground.\nThey seem to pierce right through walls.
-高速で突進して敵を吹き飛ばすよ\n効果中は再使用で方向転換も可能だ=Charges forward at high speed, blasting enemies away. Can reactivate mid-rush to change direction.
+走る事に青春を燃やす女子高生・\n赤鬼カギコ\n陸上で世界一になるという彼女の夢は\nある事故によって砕け散る\n絶望の淵にあるカギコの心の歪みを奴\nは見逃さなかった=A high school girl who has devoted her youth to running—Akaoni Kagiko. Her dream of becoming the world’s best track athlete is shattered by an accident. He did not overlook the emotional turmoil within Kagiko, who was on the brink of despair.
+岩の刃が地面を伝って飛んでいくよ\n壁とかあっても貫通するみたい=The rock blade is flying along the ground. It looks like it can even pierce through walls.
+高速で突進して敵を吹き飛ばすよ\n効果中は再使用で方向転換も可能だ=Charge forward at high speed and knock enemies away. While this effect is active, you can change direction by using the ability again.
 マッチング中…=Matching...
 カベ\n壁を出現させるよ。壁はオニの攻撃で壊せるんだ=Wall\nCreates a wall. Oni can destroy it by attacking.
 アイテム（６）=Items (6)
@@ -138,14 +130,14 @@
 スキルゲージ回復（デグチ解放）=Skill Gauge Recovery (Exit Opens)
 設定中称号=Equipped Title
 下側で<color\=#ff53b7>セットする場所</color>を選び、上側の<color\=#ff53b7>設定したいアビリティ</color>をタッチしてください=Select the <color\=#ff53b7>slot to set</color> on the bottom, then tap the <color\=#ff53b7>ability you want to assign</color> on top.
-称号リスト=Title List
+称号リスト=List of Titles
 いつもより高いジャンプができるよ\n普段越えられない壁も越えられるかも=Jump higher than normal.\nYou might clear walls you usually can't.
 <color\=#00c3fe>ジ</color>ャンプ<color\=#00c3fe>ポ</color>イント=<color\=#00c3fe>J</color>ump <color\=#00c3fe>P</color>oint
 踏むと大きくジャンプするよ\n使用後はしばらく待てばまた使えるよ=Step on it to launch into a big jump!\nHas a cooldown after use.
 <color\=#00c3fe>ア</color>イテム<color\=#00c3fe>カ</color>プセル=<color\=#00c3fe>I</color>tem <color\=#00c3fe>C</color>apsule
-ヒトの時／触れるとアイテムを取得できるよ\n取得したアイテムはスペシャルボタンで使用してね！=As a Human, touch one to grab an Item!\nUse the Special button to deploy it.
+ヒトの時／触れるとアイテムを取得できるよ\n取得したアイテムはスペシャルボタンで使用してね！=When you're in Human form, you can collect Items by touching them. Use the special button to use the Items you've collected!
 スキル（１）=Skill (1)
-スキルが使えるのはオニの時だけだよ=Skills can only be used as an Oni.
+スキルが使えるのはオニの時だけだよ=You can only use that Skill when you're in Oni form.
 ショウ=Shou
 フウカ=Fuuka
 ボンバー=Bomber
@@ -161,27 +153,25 @@
 敵プレーヤーがかなり近くにいる時移動速度を少しだけ下げるよ=Slightly reduces movement speed when enemy players are very close.
 アビリティゲージに応じてダッシュが速くなるよ\n※敵を倒すとUP/倒されるとDOWN=Dash speed scales with Ability Gauge.\n*Defeating enemies raises it; being defeated lowers it.
 花子のペット達を召喚するよ\n敵はペットに触れただけでダウンするんだ=Summons Hanako's pets.\nEnemies go down just from touching them.
-名家首塚家。その白の巫女である\nボタンは常に悩んでいた\n狂気に侵された姉を救うには\nあまりに自分の力は弱すぎる\n最愛の姉を狂わせた怪異を倒すには\n同等の怪異と契約しなければ…=Botan, White Priestess of the prestigious\nKubitsuka family, was forever troubled.\nHer power was far too weak\nto save her sister from the madness consuming her.\nTo defeat the horror that drove her beloved sister insane,\nshe'd have to make a pact with one of equal strength...
+名家首塚家。その白の巫女である\nボタンは常に悩んでいた\n狂気に侵された姉を救うには\nあまりに自分の力は弱すぎる\n最愛の姉を狂わせた怪異を倒すには\n同等の怪異と契約しなければ…=The Shuzuka family, a distinguished clan. Botan, their white shrine maiden, was constantly tormented by a deep sense of helplessness. Her own power was far too weak to save her sister, who had been driven mad. To defeat the supernatural entity that had driven her beloved sister to madness, she would have to make a pact with an entity of equal power...
 首塚　ボタン=Kubitsuka Botan
 ターンを開始する時にキーパワーをちょっともらえるよ=Receive a bit of Key Power at the start of your turn.
 キーパワー量=Key Power Amount
 キーパワー取得（ターン開始時）=Key Power Gain (Turn Start)
-減少量=Reduction Amount
-敵移動速度減少 (激近)=Enemy Movement Slowed (Very Close)
+減少量=Decrease
+敵移動速度減少 (激近)=Enemy Movement Speed Decrease (Extremely Close Range)
 巫女の力=Priestess's Power
 レイス=Wraith
-呪霊ノ展=Spread of Curse Spirits
 アイテム（１）=Items (1)
-スピードアップシューズ\n一定時間移動速度が上昇するよ=Speed-Up Shoes\nTemporarily boosts movement speed.
+スピードアップシューズ\n一定時間移動速度が上昇するよ=Speed-Up Shoes: Your movement speed will increase for a certain amount of time.
 不死　ミヨミ=Shinazu Miyomi
 中央国から雑技団の特待生としてやっ\nてきた少女・不死ミヨミ\n自分を育ててくれた祖母が亡くなった\n時、彼女は自分を呪う\n祖母が生き返るなら何でもする…\nそんな魂を奴に魅入られる=A scholarship acrobat from the Central Kingdom-\nShinazu Miyomi.\nWhen the grandmother who raised her passed,\nshe began to curse herself.\n"I'd do anything to bring her back..."\nAnd a soul like hers caught his eye.
 敵全員に呪術を放つよ\n追いかけてくる印に捕まると動きが制限されるんだ=Casts a curse on all enemies.\nGetting caught by the chasing seals restricts movement.
-ジャンプやスライディングで障害物を越えた時にダッシュゲージが回復するよ=Dash Gauge recovers when clearing obstacles by jumping or sliding.
-ダッシュゲージが半分以下の時はダッシュゲージの回復速度が上昇するよ=Dash Gauge recovery speed rises when it's below half.
+ジャンプやスライディングで障害物を越えた時にダッシュゲージが回復するよ=Your Dash Gauge will recharge when you Jump or Slide over obstacles.
+ダッシュゲージが半分以下の時はダッシュゲージの回復速度が上昇するよ=When your Dash Gauge is less than half full, it speeds up its recharge.
 ジャンプ中に移動速度が遅くなるのが軽減されるよ=Reduces the movement speed penalty while jumping.
 オニに倒されると持っていたキーパワーの一部を奪われるよ=If defeated by an Oni, you lose part of your collected Key Power.
 キーパワー（１）=Key Power (1)
-勅令=Imperial Decree
 移動速度上昇（ジャンプ中）=Movement Speed Up (While Jumping)
 回復速度=Recovery Speed
 ダッシュゲージ回復速度上昇（半分以下時）=Dash Gauge Recovery Speed Up (Below Half)
@@ -196,12 +186,12 @@
 一番近い敵に呪いをかけるよ\n呪いを受けると・・・=Curses the nearest enemy.\nThose who receive it will...
 近くにいる敵プレーヤーのダッシュゲージの消費量を大きくするよ=Nearby enemy players burn through Dash Gauge much faster.
 敵を倒した時に手に入るキーパワーの量が増えるよ=Gain more Key Power when you defeat an enemy.
-シャッターを起動すると一定時間移動速度が速くなるよ=Activating a Shutter temporarily boosts your movement speed.
-気絶からの回復が早くなるよ=Recover from Stun faster.
-ギミックの扱いが上手くなるよ\nシャッターとかワープとかジャンプポイントとか=Improves skill with gimmicks\nlike Shutters, Warps, and Jump Points.
+シャッターを起動すると一定時間移動速度が速くなるよ=When you activate the shutter, your movement speed will increase for a short time.
+気絶からの回復が早くなるよ=You'll recover from being knocked out faster.
+ギミックの扱いが上手くなるよ\nシャッターとかワープとかジャンプポイントとか=You'll get better at using the mechanics—like shutters, warps, and Jump points.
 敵全員に爆弾の雨を降らせるよ\n爆弾は触れるか一定時間で爆発するみたい=Rains bombs on all enemies.\nBombs detonate on contact or after a short time.
 モモコから買ってもらったアイスを落\nとしてしまったパイン\nアイスを落とす前からやり直すために\n作ったタイムマシンの故障で、別次元\nに来てしまったパインの事を奴は大い\nに気に入った=Pine dropped the ice cream\nMomoko bought for her.\nThe time machine she built to undo it\nmalfunctioned, stranding her in another dimension-\nand he took quite a liking\nto that particular Pine.
-ジャンプで障害物を越えた時にスキルゲージが少し回復するよ=Clearing obstacles by jumping slightly recovers your Skill Gauge.
+ジャンプで障害物を越えた時にスキルゲージが少し回復するよ=Jump over an obstacle and your Skill Gauge will recover a little.
 ジャンプボタンまたはスペシャルボタンを押している間落下速度がゆるやかになるよ=Hold Jump or Special to slow your descent.
 高速で空中に大きく飛び上がるよ\n固有アビリティと組み合わせるのが有効だ=Leaps high into the air at high speed.\nEffective when combined with her unique ability.
 愛に彷徨うシリアルキラー・\n最愛チアモ\n９つの偽愛を葬り、遂に彼女は真実の\n愛へたどり着く\nその愛は奴の力をも越え、最愛のあな\nたに会いに来たのだった=A serial killer lost in love-\nSaiai Chiamo.\nAfter burying nine false loves,\nshe finally reached true love.\nThat love surpassed even his power,\nand she came to meet her beloved.
@@ -223,7 +213,7 @@
 医者の家系に生まれた痕部クルルの人\n生は両親を亡くした時に狂う\n施設の大人達に全てを奪われた彼女の\n医志は憎悪と狂気で塗りつぶされた\nそんな悪意の天使に目をつけたのは奴\nだけではなかった=Born into a family of doctors,\nAtobe Kururu's life twisted when her parents died.\nThe adults at the facility took everything from her,\nand her medical dreams were painted over with hatred and madness.\nHe wasn't the only one to set eyes\non this angel of malice.
 味方全員に愛を投与\n・ダッシュゲージ消費０\n・気絶無効\n・ステルス=Doses all allies with love.\n・Zero Dash Gauge consumption\n・Stun immunity\n・Stealth
 アイテムやスキルを使用するとアビリティゲージが増加\nゲージがある間は味方のダッシュ能力が強化されるよ\n※ゲージは徐々に減少するがダッシュしている間は減らないよ=Using items or skills fills the Ability Gauge, boosting ally dash performance.\n*Gauge slowly drains, but not while dashing.
-味方が隣にいる時、両者のジュウデン速度がアップするよ=When an ally is right next to you, both of you charge faster.
+味方が隣にいる時、両者のジュウデン速度がアップするよ=When allies are nearby, both of your Charge speeds will increase.
 スキルを使用した時、自分以外の味方のスキルゲージが少し回復するよ=Using a skill slightly recovers the Skill Gauge of other allies.
 貰える経験値は勝敗、貢献度、獲得メダルなどによって決まるよ=EXP earned depends on win/loss, contribution, medals, and more.
 経験値=EXP
@@ -239,24 +229,17 @@
 ジャンプやスライディング中もダッシュを継続できるよ\n※ただしダッシュゲージを大きく消費=Continue dashing while jumping or sliding.\n*Consumes Dash Gauge heavily.
 ワープポイントを使用した時少しの時間ミニマップに敵の位置が表示されるよ=Briefly shows enemy positions on the Mini Map after using a Warp Point.
 ジュウデン量が負けている時にダッシュゲージの回復速度が上昇するよ=Dash Gauge recovers faster while your team is behind on Charge.
-サカサマタワー・序 ５本目=Sakasama Tower - Intro: Run 5
-サカサマタワー・破=Sakasama Tower - Break
 ダッシュゲージ=Dash Gauge
 ダッシュゲージを空にしてしまうと通常より回復までの時間が長くなるよ=Fully draining the Dash Gauge makes recovery take longer than usual.
-アムールオーバードーズ=Amour Overdose
 白衣のポンコツ天使=Clumsy Angel in a White Coat
 ジュウデン速度上昇（協力）=Charge Speed Up (Teamwork)
 ジュウデン速度=Charge Speed
 味方スキルゲージ回復（スキル使用時）=Ally Skill Gauge Recovery (On Skill Use)
-怨讐呪殺参り=Vengeful Curse Pilgrimage
-パインボム=Pine Bomb
-紅牙一閃=Crimson Fang Flash
 閉じているシャッターは攻撃すると破壊することができるよ=Closed Shutters can be destroyed by attacking them.
 シャッター（３）=Shutter (3)
 骸雷　ミロク=Gairai Miroku
 ジャンプポイントは誰かが使うと一定時間使えなくなるよ=Jump Points go on cooldown after someone uses them.
 ジャンプポイント=Jump Point
-彼岸斬=Far-Shore Slash
 全部で１人=1 total
 陸上部の現エース=Current Track & Field Ace
 ダッシュゲージ消費量=Dash Gauge Consumption
@@ -270,7 +253,6 @@
 敵を倒すと一定時間ダッシュゲージの消費量が大きく下がるよ=Defeating an enemy greatly reduces Dash Gauge consumption for a limited time.
 敵が近くにいるとスキルゲージの回復速度が上昇するよ=Skill Gauge recovers faster when enemies are nearby.
 紅刃=Kureha
-怨気=Rancor
 スキルゲージ回復速度上昇（接敵時）=Skill Gauge Recovery Up (Near Enemies)
 ダッシュゲージ消費量軽減（キル時）=Dash Gauge Consumption Reduction (On Kill)
 剣帝=Sword Emperor
@@ -280,7 +262,7 @@
 黒の巫女=Black Priestess
 キーパワー\nキーパワーが手に入るよ=Key Power\nGain Key Power.
 アイテム（３）=Items (3)
-キャラが持っているアビリティを他のキャラにセットするにはそのアビリティをマスターする必要があるよ=You must master an ability before equipping it on another character.
+キャラが持っているアビリティを他のキャラにセットするにはそのアビリティをマスターする必要があるよ=To assign a character's ability to another character, you need to master that ability first.
 アビリティのマスター=Ability Mastery
 DNSサーバー\n=DNS Server\n
 ドメイン名=Domain Name
@@ -317,7 +299,7 @@ DNSサーバー\n=DNS Server\n
 アビリティ（２）=Ability (2)
 セットできるアビリティは全部で３つ。１つは固有で変更不可だけど残りの２つは変更することができるよ=You can equip 3 abilities total.\nOne is unique and locked; the other two are customizable.
 アイテム（７）=Items (7)
-ステルスポンチョ\n自分のネームプレートが敵から見えなくなるよ。ミニマップにも表示されなくなるんだ=Stealth Poncho\nHides your nameplate from enemies and removes you from their Mini Map.
+ステルスポンチョ\n自分のネームプレートが敵から見えなくなるよ。ミニマップにも表示されなくなるんだ=Stealth Poncho: Your nameplate will become invisible to enemy eyes. It won't show up on the minimap either.
 このマークの先は行き止まりになっているから注意が必要だよ=Warning: this path leads to a dead end!
 行き止まり=Dead End
 ネームプレートの色が青のキャラクターは味方で赤なら敵だよ=Blue nameplate = ally. Red nameplate = enemy.
@@ -343,7 +325,6 @@ DNSサーバー\n=DNS Server\n
 ジャンプやスライディング中はアビリティゲ\nージが上昇し、満タン時にダッシュボタンを押すと瞬間的に加速するよ=Ability Gauge rises during jumps and slides.\nAt full, press Dash for an instant burst of speed.
 前方に雷を落とし、オニの速度を上げてヒトの速度を下げるエリアを生成するよ=Calls down lightning ahead, creating an area that speeds up Oni and slows down Humans.
 寺生まれの軽音少女・骸雷ミロクは苦悩\nしていた\nなぜ人は悪いと知りながら手を汚し、\n同じ過ちを繰り返すのか\nそんな迷いの中アノコの説いた正義は\n刺激的で、最高にROCKなのであった=Gairai Miroku-a temple-born light music club girl-\nwas tormented.\nWhy do people dirty their hands knowing it's wrong,\nrepeating the same mistakes again and again?\nAmid her doubts, the justice Ano-ko preached\nwas electrifying, and totally ROCK.
-輪廻の雷=Thunder of Samsara
 イナズマ☆ミＲＯＣＫ=Inazuma☆Mi ROCK
 移動速度=Movement Speed
 オートジュウデン=Auto Charge
@@ -353,22 +334,14 @@ DNSサーバー\n=DNS Server\n
 アイテム名アイテム名=Item name Item name
 アビリティ【〇〇〇】のレベルが上がりました！=Ability [〇〇〇] leveled up!
 リク＆ムツ=Riku & Mutsu
-ヨっちゃん堂=Yocchan-do
-<color\=#e953ff>散財しました</color>=<color\=#e953ff>Big Spender</color>
 一定時間ネームプレートを隠し\n敵のミニマップにも映らなくなるよ=Hides your nameplate and removes you from the enemy Mini Map for a limited time.
 メインスキルのスキルゲージを一定量回復するよ=Recovers a set amount of your Main Skill Gauge.
 一番近いスタートポイントまでワープするよ=Warp to the nearest Start Point.
 ターンを開始する時にアイテムを持っていなかったら補充されるよ=If you start a turn without an item, you'll be supplied with one.
 スライディング中に移動速度が遅くなるのが軽減されるよ=Reduces the movement speed penalty while sliding.
 キーパワーのチェイン可能な時間が長くなるよ ※チーム全員に有効=Extends the Key Power chain window. *Applies to entire team.
-陸上部=Track & Field Club
-千本ダッシュ=Thousand Dashes
-カチ割る=Crush 'Em
-赤い熱風=Red Hot Wind
-オンユアマーク=On Your Mark
-鬼ヨメ=Demon Bride
-一定時間移動速度が上昇するよ=Temporarily boosts movement speed.
-一定時間ダッシュゲージの回復速度が上昇するよ=Temporarily boosts Dash Gauge recovery speed.
+一定時間移動速度が上昇するよ=Your movement speed will increase for a certain amount of time.
+一定時間ダッシュゲージの回復速度が上昇するよ=Your Dash Gauge will speed up its recharge for a certain amount of time.
 レインコート（雷・黒）=Raincoat (Thunder / Black)
 キンギョ（赤）=Goldfish (Red)
 敵をダウンさせられる高速なスライディングをするよ=A high-speed slide that can down enemies.
@@ -377,14 +350,6 @@ DNSサーバー\n=DNS Server\n
 前にちょっとだけワープするよ(仮)\n壁を通り抜ける事は出来ないみたい=Warp a short distance forward. (placeholder)\nCan't pass through walls, it seems.
 一定時間カメラがズームアウトするよ=Camera zooms out for a limited time.
 スイカ型の爆弾を設置するよ\n※ゴールの側には置き続けられません=Place a watermelon-shaped bomb.\n*Can't be placed near the goal.
-アクアブルー家=Aquablue Family
-鉄の味=Taste of Iron
-ニンニク反対=Down with Garlic
-帰りたい…=I want to go home...
-ドレミロク！=DoReMiROCK!
-デスサイズ=Death Scythe
-なまくら=Dull Blade
-マイペース=My Pace
 グリム・マラリヤ=Grim Malariya
 グリム・マラリヤの杖=Grim Malariya's Staff
 名前=Name
@@ -392,41 +357,28 @@ DNSサーバー\n=DNS Server\n
 マラリヤを元に作られた「エボルグリ\nム」の少女\nマラリヤとは異なりとにかく弱気で余\n裕が無く、常に他人の顔色を伺ってい\nる。その態度が加虐心を煽るともっぱ\nらの評判=A girl from the "EvolGrim" line, modeled on Malariya.\nUnlike her original, she's timid and anxious,\nalways reading others' expressions.\nThat attitude, rumor has it,\ntends to stoke sadistic impulses in those around her.
 最強にして最狂の怪異・花子に\n道徳的観念など存在しない\n楽しいか楽しくないかだけが理\nそしてある夜彼女のトイレの来客に\n花子の心は躍る。怪異に悩める少女は\n極上の玩具にしか見えていない=For Hanako, the strongest and most deranged of horrors,\nmorality is meaningless.\nFun or not-fun-that's her only logic.\nThen one night, a visitor comes to her toilet,\nand Hanako's heart leaps. A girl tormented by spirits\nlooks to her like nothing but a first-rate toy.
 赤鬼カギコについて=About Akaoni Kagiko
-天翅の風=Wind of Heavenly Wings
 ジュウデン速度上昇（キーパワー依存/多）=Charge Speed Up (Key Power Dependent/High)
 スキルゲージ回復（ジャンプ成功時）=Skill Gauge Recovery (On Successful Jump)
 予定不調和=Pre-Established Disharmony
 ヒャクオク=Hyakuoku
 ミキ=Miki
 トウカ=Touka
-キョク=Kyoku
+キョク=Track
 セフィン=Sefin
-サカサマタワー・序 ６本目=Sakasama Tower - Intro: Run 6
 ジャンボスイカ=Jumbo Watermelon
-味方は自分１人=Solo: No Allies
-敵の位置が常にミニマップに表示される=Enemy positions always shown on the Mini Map.
-敵のタマシイが１０に増加=Enemy Tamashii increased to 10.
-味方のジュウデンが最初から１００％=Ally Charge starts at 100%.
-ギミックの扱いが上手くなるよ シャッターとかワープとかジャンプポイントとか=Improves skill with gimmicks like Shutters, Warps, and Jump Points.
+ギミックの扱いが上手くなるよ シャッターとかワープとかジャンプポイントとか=You'll get better at using the mechanics—like shutters, warps, and Jump points.
 本来ジャンプができない場所でもジャンプが出来るよ ※全部じゃないよ=Lets you jump in some normally un-jumpable places. *Not all of them.
-敵のタマシイが１２に増加=Enemy Tamashii increased to 12.
 <cspace\=-3>ｅ-ａｍｕｓｅｍｅｎｔ ｐａｓｓ</cspace>を確認しています　しばらくお待ちください…=Checking <cspace\=-3>ｅ-ａｍｕｓｅｍｅｎｔ ｐａｓｓ</cspace>... please wait a moment.
 爆弾数アップ確率=Bomb Count Up Chance
 自称ＩＱ１００億=Self-Proclaimed IQ of 10 Billion
-ギミックの扱い=Gimmick Proficiency
+ギミックの扱い=Handling Gimmicks
 気絶耐性=Stun Resistance
 軽減率=Reduction Rate
 移動速度上昇（シャッター起動時）=Movement Speed Up (On Shutter Activation)
-敵のジュウデンが増え続ける(小)=Enemy Charge keeps rising (Small).
 ジン=Jin
 ヤシャ=Yasha
 テン=Ten
 ナナ=Nana
-味方のジュウデンが減り続ける（大）=Ally Charge keeps draining (Large).
-敵のスキルゲージ回復速度上昇（超）=Enemy Skill Gauge recovery sped up (Max).
-ミニマップ封印=Mini Map Disabled
-味方のアビリティ封印=Ally Abilities Disabled
-味方のスキル封印=Ally Skills Disabled
 アキト=Akito
 エミール=Emile
 マカミ=Makami
@@ -439,161 +391,16 @@ DNSサーバー\n=DNS Server\n
 ノルト=Nort
 レイ=Rei
 マタタビ=Matatabi
-ルック=Rukku
-オオカミさん=Ookami-san
-真紅に染める=Dyed in Crimson
-セーラー服と=With a Sailor Uniform
-剣舞=Sword Dance
-赤ずきん=Little Red Riding Hood
+ルック=Look
 夜=Night
 あり=Allow
-<color\=#9ed0ff>氷菓</color><color\=#6575ee>の</color><color\=#9ed0ff>鉄人</color>=<color\=#9ed0ff>Iron Chef</color><color\=#6575ee> of </color><color\=#9ed0ff>Frozen Desserts</color>
-<color\=#e953ff>お花持ち</color>=<color\=#e953ff>Flower Holder</color>
-<color\=#fffc00>キング</color><color\=#ff8400>オブ</color><color\=#fffc00>穴掘り</color>=<color\=#fffc00>King</color><color\=#ff8400> of </color><color\=#fffc00>Digging</color>
-<color\=#ffb000>トリック</color>・<color\=#d78aff>オア</color>・<color\=#ffb000>トリート！</color>=<color\=#ffb000>Trick</color>・<color\=#d78aff>or</color>・<color\=#ffb000>Treat!</color>
-破王=Break King
-<color\=#ffb000>ちくわパーティー♪</color>=<color\=#ffb000>Chikuwa Party ♪</color>
-<color\=#ffb000>ちくわの</color><color\=#ffff00>王</color>=<color\=#ffb000>King of </color><color\=#ffff00>Chikuwa</color>
-<color\=#ff0000>メ</color><color\=#00ea53>リー</color><color\=#ff0000>ク</color><color\=#00ea53>リスマス</color><color\=#ff0000>だ</color><color\=#00ea53>ヨ～</color>=<color\=#ff0000>Me</color><color\=#00ea53>rry</color><color\=#ff0000> C</color><color\=#00ea53>hristmas</color><color\=#ff0000>~</color><color\=#00ea53>♪</color>
 パトランプ（赤）=Patrol Lamp (Red)
-オリジナル=Original
-キラー・モス=Killer Moth
-ガッツだぜぃ！=Got Guts!
-シザーズ=Scissors
-痛くしないよ=I won't hurt you
-ヨロミロク☆=YoroMiroku☆
-ぬはー！=Nuhaa!
-ばぶた～ん=Babutaan
-だぱはぁー=Dapahaa
 サカキ=Sakaki
-ラック=Rakku
-敵のタマシイが２０に増加=Enemy Tamashii increased to 20.
+ラック=Rack
 ロバート=Robert
 カイト=Kaito
 タートルネック（白）=Turtleneck (White)
-聖水ＮＧ=No Holy Water
 ミイ=Mii
-血塗られた=Bloodstained
-息をするのも退屈=Even Breathing Is Boring
-吸血姫=Vampire Princess
-国士無双=Kokushi Musou
-もち米怖い=Sticky Rice Scares Me
-一騎当千=Ikki Tousen
-クンフー！=Kung Fu!
-銭剣派=Coin-Sword School
-桃剣派=Peach-Sword School
-特待生=Honor Student
-飛び級ＪＫ=Grade-Skipping JK
-<color\=#ffb000>猫に鰹節</color>=<color\=#ffb000>Cat and Bonito Flakes</color>
-<color\=#ffb000>借りてきた猫</color>=<color\=#ffb000>Borrowed Cat</color>
-<color\=#ffb000>猫にもなれば虎にもなる</color>=<color\=#ffb000>Both Cat and Tiger</color>
-<color\=#ffb000>プリティー・ボンバーズ</color>=<color\=#ffb000>Pretty Bombers</color>
-無駄無理無謀♪=Pointless, Hopeless, Reckless♪
-ウォール・パイン=Wall Pine
-ブロッカー=Blocker
-天才アイドル=Genius Idol
-助手=Assistant
-タイムトラブラー=Time Troubler
-呪術の頂=Pinnacle of Sorcery
-また、悪夢で=See You in the Nightmare
-井戸っ子=Well Child
-黒の祈り=Black Prayer
-巫女・姉=Priestess / Elder Sister
-<color\=#ffb000>爆・即・散</color>=<color\=#ffb000>Boom・Instant・Scatter</color>
-<color\=#ffb000>猫鬼</color>=<color\=#ffb000>Cat Demon</color>
-<color\=#ffb000>仙狸</color>=<color\=#ffb000>Immortal Tanuki</color>
-<color\=#ffb000>金華猫</color>=<color\=#ffb000>Kinka Cat</color>
-<color\=#ffb000>女の心は猫の目</color>=<color\=#ffb000>A Woman's Heart, a Cat's Eye</color>
-地獄変=Hell Screen
-綺麗でお淑やか=Beautiful and Graceful
-きゃわいかろ？=Aren't I Adorable?
-七不思議=Seven Wonders
-大凶=Great Misfortune
-大吉=Great Fortune
-オバケ以外なら=Anything but Ghosts
-なんかようかい=Kinda Like a Yokai
-巫女・妹=Priestess / Little Sister
-お仕置きが必要=Needs a Spanking
-パピーちゃん=Puppy-chan
-イモた～ん=Potato-chan
-害虫駆除=Pest Control
-がんばりまぁ～っす♪=I'll do my beeeest♪
-イレギュラー=Irregular
-首塚神社=Kubitsuka Shrine
-地獄変・再演=Hell Screen: Encore
-恨み日和=A Fine Day for a Grudge
-選ばれてあげる=I'll Let You Pick Me
-誰を呪います？=Who Shall I Curse?
-首塚の名にかけて=In the Name of Kubitsuka
-堕ちて廻れ=Fall and Spin
-正解=Correct
-クイズマジックアカデミー=Quiz Magic Academy
-四択=Four Choices
-アニメ＆ゲーム=Anime & Games
-第１問=Question 1
-瘴気=Miasma
-研究素材=Research Material
-痕=Scar
-痛いの痛いのとんでいけ～=Pain, pain, fly away~
-なのだわ♪=That's right ♪
-要介護=Needs Care
-ドジっ子=Clumsy Girl
-軽音部=Light Music Club
-たくあん=Takuan
-ロック=Rock
-あたしが1番速い…っ！=I'm the fastest...!
-ノロ亀さん=Slowpoke Turtle
-青い焔=Blue Flame
-スプリンター=Sprinter
-はにゃぁ…=Hanyaa...
-鬼子=Demon Child
-後輩=Junior
-猛犬注意=Beware of Dog
-愛犬家=Dog Lover
-血が騒ぐの=My Blood's Racing
-斬捨御免=License to Slay
-呪王=Curse King
-岩鬼=Stone Demon
-ボムふらし=Bomb Scatter
-爆弾娘=Bomb Girl
-ネクロマンサー=Necromancer
-道士=Daoist
-突撃っ娘=Charger Girl
-超特急=Super Express
-イワ娘=Rock Girl
-エボルグリム=EvolGrim
-お蚕さん=Silkworm-san
-パピヨン=Papillon
-天命=Mandate of Heaven
-大地獄=Great Hell
-ドラッグ・デリバリー=Drug Delivery
-博愛=Philanthropy
-引っ込めぇ！！=Back Off!!
-曼殊沙華=Manjushage
-ギアを上げてくよ=Shifting Into High Gear
-この世界なら…=In this world...
-＃丑の刻=#Hour of the Ox
-天才的ぃ=Geniussss
-雑技開始=Acrobatics, Begin!
-風化雷電=Weathering Thunder
-ハイヤ！=Hiya!
-血が騒ぐ…=Blood Is Pumping...
-行きますわよ=Here I Come
-ついてこられる？=Can You Keep Up?
-まだ走り足りない=Not Done Running Yet
-恨めし屋=Grudge Shop
-秘薬錬金=Secret Alchemy
-ドラゴン=Dragon
-にげるですにゃ=I'm Running, Nya!
-鬼チョロ♪=Oni's a Pushover♪
-オペ開始♪=Operation, Start♪
-前進あるのみ=Forward, Only Forward
-たぶん絶対=Probably, Definitely
-えいえいおー=Fight! Fight! Yeah!
-狂った剣帝=Mad Sword Emperor
-逝きましょう=Let Us Pass On
-堕ちましょう=Let Us Fall
-降りましませ=Descend Upon Us
 ダイナミック野球兄弟 ｖ.ｓ. クロスファイヤーＰｒｉｍ=Dynamic Baseball Bros V.S. Crossfire PRIM
 アビリティゲージに応じてダッシュが速くなるよ ※敵を倒すとUP/倒されるとDOWN=Dash speed scales with Ability Gauge. *Defeating enemies raises it; being defeated lowers it.
 アイテムやスキルを使用するとアビリティゲージが増加 ゲージがある間は味方のダッシュ能力が強化されるよ ※ゲージは徐々に減少するがダッシュしている間は減らないよ=Using items or skills fills the Ability Gauge, boosting ally dash performance. *Gauge slowly drains, but not while dashing.
@@ -609,7 +416,7 @@ DNSサーバー\n=DNS Server\n
 いいえ=No
 STEP3:入力を感知しない範囲を設定してください=STEP 3: Set the dead zone where input won't be detected.
 まだ変更していません。変更を保存しますか？=No changes made yet.\nSave changes?
-STEP1:アナログスティックを離した状態で次へ進んでください=STEP 1: Release the analog stick and proceed.
+STEP1:アナログスティックを離した状態で次へ進んでください=STEP 1: Proceed to the Next step while keeping your thumb off the analog stick.
 左/右ボタン同時押し \= 中止=Press Left + Right together \= Cancel
 回線不明\r\nリリースビルド\r\n=Connection Unknown\r\nRelease build\r\n
 サブモニターの解像度が正しくありません。\n現在の解像度　1200 x 1920\nサブモニターが正しく接続されているか\n確認してください。\r\n=Sub monitor resolution is incorrect.\nCurrent: 1200 x 1920\nPlease verify the sub monitor is properly connected.\r\n
@@ -617,7 +424,7 @@ STEP1:アナログスティックを離した状態で次へ進んでくださ�
 <color\=#004efe>ランキング</color>で\n\rプレーヤー名を<color\=#004efe>表示しない</color>=Do not <color\=#004efe>display</color> player name\n\rin <color\=#004efe>Rankings</color>
 一定時間ダッシュゲージの回復速度が上昇するヨ=Temporarily boosts Dash Gauge recovery speed.
 一定時間ミニマップに敵の位置が表示されるようになるヨ=Temporarily shows enemy positions on the Mini Map.
-岩の刃が地面を伝って飛んでいくヨ\n壁とかあっても貫通するみたい=Stone blades fly along the ground.\nThey seem to pierce right through walls.
+岩の刃が地面を伝って飛んでいくヨ\n壁とかあっても貫通するみたい=The rock blades are flying along the ground! It looks like they can even pierce through walls.
 味方がやられた時と自分が敵を倒した時に一定時間移動速度が速くなるヨ=Temporarily boosts movement speed when an ally is downed or you defeat an enemy.
 近くにいる敵プレーヤーのダッシュゲージの消費量を大きくするヨ=Nearby enemy players burn through Dash Gauge much faster.
 所持しているアイテムに応じて様々な特殊効果が発動するヨ=Various special effects trigger based on the item you're holding.
@@ -627,7 +434,7 @@ STEP1:アナログスティックを離した状態で次へ進んでくださ�
 敵全員に爆弾の雨を降らせるヨ\n爆弾は触れるか一定時間で爆発するみたい=Rains bombs on all enemies.\nBombs detonate on contact or after a short time.
 本来ジャンプができない場所でもジャンプが出来るヨ ※全部じゃないヨ=Lets you jump in some normally un-jumpable places. *Not all of them.
 ジャンプやスライディングで障害物を越えた時にダッシュゲージが回復するヨ=Dash Gauge recovers when clearing obstacles by jumping or sliding.
-ギミックの扱いが上手くなるヨ シャッターとかワープとかジャンプポイントとか=Improves skill with gimmicks like Shutters, Warps, and Jump Points.
+ギミックの扱いが上手くなるヨ シャッターとかワープとかジャンプポイントとか=You'll get better at using the mechanics—like shutters, warps, and jump points.
 アビリティゲージに応じてダッシュが速くなるヨ ※敵を倒すとUP/倒されるとDOWN=Dash speed scales with Ability Gauge. *Defeating enemies raises it; being defeated lowers it.
 アイテムやスキルを使用するとアビリティゲージが増加して、ゲージがある間は味方のダッシュ能力が強化されるヨ  ※ゲージは徐々に減少するけどダッシュしている間は減らないヨ=Using items or skills fills the Ability Gauge, boosting ally dash performance. *Gauge slowly drains, but not while dashing.
 シャッターを起動すると一定時間移動速度が速くなるヨ=Activating a Shutter temporarily boosts your movement speed.
@@ -636,7 +443,7 @@ STEP1:アナログスティックを離した状態で次へ進んでくださ�
 ジャンプやスライディング中もダッシュを継続できるヨ ※ただしダッシュゲージを大きく消費=Continue dashing while jumping or sliding. *Consumes Dash Gauge heavily.
 スライディング中に移動速度が遅くなるのが軽減されるヨ=Reduces the movement speed penalty while sliding.
 オニに近づかれた時に移動速度が速くなるヨ ※１ターンに１回だけ=Movement speed rises when Oni close in. *Once per turn only.
-ギミックによる大きいジャンプをした際の着地時に移動速度が上昇するヨ=Movement speed boosts on landing from a big gimmick jump.
+ギミックによる大きいジャンプをした際の着地時に移動速度が上昇するヨ=When you land after a big jump using a special ability, your movement speed is Speed Uped.
 ダッシュゲージ回復ペナルティを受けた後ダッシュゲージを50％まで回復させると一定時間移動速度が速くなるヨ=After a Dash Gauge recovery penalty, restoring the gauge to 50% temporarily boosts movement speed.
 敵プレーヤーがかなり近くにいる時移動速度を少しだけ下げるヨ=Slightly reduces movement speed when enemy players are very close.
 ダッシュゲージが40%～60%の時に移動速度が速くなるヨ=Movement speed rises when Dash Gauge is between 40% and 60%.
@@ -644,7 +451,7 @@ STEP1:アナログスティックを離した状態で次へ進んでくださ�
 攻撃中の移動速度が速くなるヨ=Increases movement speed while attacking.
 ダッシュゲージが0なら全回復=Full recovery if Dash Gauge is 0.
 ダッシュゲージが一定以上なら全回復=Full recovery if Dash Gauge is above a threshold.
-デメリット効果=Demerit Effect
+デメリット効果=Negative effects
 条件を満たさなくする=Nullifies condition
 ダッシュゲージ回復ペナルティを受けて一定時間の間移動速度が上昇するヨ=When you take a Dash Gauge recovery penalty, movement speed rises for a limited time.
 ヒトのターン開始時と復活時に一定時間移動速度が速くなるヨ=Temporarily boosts movement speed at the start of a Human turn or on revival.
@@ -665,18 +472,12 @@ STEP1:アナログスティックを離した状態で次へ進んでくださ�
 一定時間ネームプレートを隠し\n敵のミニマップにも映らなくなるヨ=Hides your nameplate and removes you from the enemy Mini Map for a limited time.
 一定時間移動速度が上昇するヨ=Temporarily boosts movement speed.
 いつもより高いジャンプができるヨ\n普段越えられない壁も越えられるかも=Jump higher than normal.\nYou might clear walls you usually can't.
-アサシン=Assassin
-キラー=Killer
-守衛=Guard
 スイカ型の爆弾を設置するヨ\n※ゴールの側には置き続けられません=Place a watermelon-shaped bomb.\n*Can't be placed near the goal.
 敵をダウンさせられる高速なスライディングをするヨ=A high-speed slide that can down enemies.
 サクラモチを投げて敵を気絶させるヨ\n（後でヨっちゃんがおいしく頂きます）=Throw a sakura mochi to stun the enemy.\n(Yocchan'll eat it later.)
 ダッシュゲージを全回復するヨ=Fully restores Dash Gauge.
 メインスキルのスキルゲージを一定量回復するヨ=Recovers a set amount of your Main Skill Gauge.
 前方にちょっとだけワープする\n<color\=#ff0000>※仮スキル</color>=Warp a short distance forward.\n<color\=#ff0000>*Placeholder skill</color>
-チェチェイン=Che-Chain
-ウラオキナワの兵士=Ura-Okinawa Soldier
-千人斬り=Thousand-Man Slayer
 キーパワーハツデンキの下にいる間自動でジュウデンされるヨ=Automatically charges while standing under a Key Power Generator.
 触れると跳ね飛ぶドラゴンフルーツを設置するヨ\n※ヒトは更に気絶します=Place a Dragon Fruit that knocks things back on contact.\n*Humans also get stunned.
 一定時間味方全員の移動速度を上昇させるヨ=Temporarily boosts all allies' movement speed.
@@ -731,7 +532,7 @@ STEP1:アナログスティックを離した状態で次へ進んでくださ�
 ワープポイントの起動時間が短くなる代わりにワープ後にダッシュゲージが空になるヨ=Warp Point activation time shortens, but Dash Gauge empties after warping.
 味方のジュウデンが１００％の時、ワープポイントの再使用までの時間が短くなるヨ=When an ally's Charge is at 100%, Warp Point cooldown is reduced.
 ワープポイントの起動時間が短縮されるヨ=Reduces Warp Point activation time.
-シャッターを一撃で破壊出来るようになるヨ=Destroy Shutters in a single hit.
+シャッターを一撃で破壊出来るようになるヨ=You'll be able to destroy shutters with a single blow!
 キーパワーのチェイン可能な時間が長くなるヨ ※チーム全員に有効=Extends the Key Power chain window. *Applies to entire team.
 ヒトでターンを開始する時にアイテムを持っていなかったら変身ステッキが補充される事があるヨ=If you start a Human turn empty-handed, you may be given a Transformation Stick.
 ターンを開始する時にアイテムを持っていなかったら補充されるヨ=If you start a turn without an item, you'll be supplied with one.
@@ -756,7 +557,7 @@ AP回復（ゲーム開始時）=AP Recovery (Match Start)
 キルされた時にアビリティポイント回復=Ability Points recover when killed.
 キル時にアビリティポイントを回復=Recover Ability Points on kill.
 クルル用=For Kururu
-ミロク用デメリット効果=Miroku Demerit Effect
+ミロク用デメリット効果=Miroku's Debuff Effect
 アビリティポイントを回復させ続ける（１秒間かけて効果量分）=Continuously recovers Ability Points (effect amount per second).
 復活した時にアビリティポイント回復=Ability Points recover on revival.
 マラリアがスピードアップシューズかダッシュドリンクを持っている時の効果=Active when Malariya holds Speed-Up Shoes or Dash Gauge Drink.
@@ -786,63 +587,26 @@ AP回復（ゲーム開始時）=AP Recovery (Match Start)
 1023の条件達成時に内部値リセット=Resets internal value when condition 1023 is met.
 4/7 10:00 ~ 5/15 9:59 - 発掘ガチャ更新=4/7 10:00 ~ 5/15 9:59 - Excavation Gacha updated
 2/27 10:00 ~ 4/7 9:59 - チェイスガチャ開催！=2/27 10:00 ~ 4/7 9:59 - Chase Gacha on now!
-サカサマタワー・破 ５本目=Sakasama Tower - Break: Run 5
-サカサマタワー・序 ７本目=Sakasama Tower - Intro: Run 7
-味方のジュウデンが減り続ける（中）=Ally Charge keeps draining (Medium).
 メインモニターの解像度が正しくありません。\n現在の解像度 1920 x 1200\nメインモニターが正しく接続されているか\n確認してください。\r\n=Main monitor resolution is incorrect.\nCurrent: 1920 x 1200\nPlease verify the main monitor is properly connected.\r\n
 <color\=red>確認中</color>=<color\=red>Verifying</color>
 <color\=lime>接続中</color>=<color\=lime>Connecting</color>
 ゲームが正常に終了しませんでした=Game did not close properly.
-ピヨピヨ=Piyopiyo
-ビリビリ=Bizzt Bzzt
-チェチェチェイン=Che-Che-Chain
-門番=Gatekeeper
-スイープ=Sweep
-暴れん坊=Rampager
-アディオス=Adios
-ぴょん♪=Boing♪
-テレポーター=Teleporter
-ぴょんぴょん♪=Boing Boing♪
-ウラオオサカの支配者=Ruler of Ura-Osaka
-ウラオオサカの顔=Face of Ura-Osaka
-ウラオオサカの主=Lord of Ura-Osaka
-ウラオオサカの番長=Boss of Ura-Osaka
-ウラシブヤの支配者=Ruler of Ura-Shibuya
-ウラシブヤの顔=Face of Ura-Shibuya
-よろしくね=Nice to meet you
-増殖する=Multiply
-ウラシブヤの主=Lord of Ura-Shibuya
-ウラシブヤの番長=Boss of Ura-Shibuya
-賢くなる薬=Smart Pill
 オニに近づかれた時に移動速度が速くなるヨ\n※１ターンに１回だけ=Movement speed rises when Oni close in.\n*Once per turn only.
 本来ジャンプができない場所でもジャンプが出来るヨ\n※全部じゃないヨ=Lets you jump in some normally un-jumpable places.\n*Not all of them.
 敵全員に呪術を放つヨ\n追いかけてくる印に捕まると動きが制限されるんだ=Casts a curse on all enemies.\nGetting caught by the chasing seals restricts movement.
 アビリティゲージに応じてダッシュが速くなるヨ\n※敵を倒すとUP/倒されるとDOWN=Dash speed scales with Ability Gauge.\n*Defeating enemies raises it; being defeated lowers it.
 花子のペット達を召喚するヨ\n敵はペットに触れただけでダウンするんだ=Summons Hanako's pets.\nEnemies go down just from touching them.
-ギミックの扱いが上手くなるヨ\nシャッターとかワープとかジャンプポイントとか=Improves skill with gimmicks\nlike Shutters, Warps, and Jump Points.
+ギミックの扱いが上手くなるヨ\nシャッターとかワープとかジャンプポイントとか=You'll get better at using the mechanics—like shutters, warps, and jump points.
 長射程の斬撃を放つヨ\nボタンを押している間は狙いを変えられて離すと発動だ=Unleashes a long-range slash.\nHold the button to aim, release to fire-stuns on hit.
 高速で空中に大きく飛び上がるヨ\n固有アビリティと組み合わせるのが有効だ=Leaps high into the air at high speed.\nEffective when combined with her unique ability.
 範囲内の敵が持つアイテムを毒薬に変えるヨ=Turns items held by enemies in range into Poison.
 アイテムやスキルを使用するとアビリティゲージが増加して、ゲージがある間は味方のダッシュ能力が強化されるヨ\n\n※ゲージは徐々に減少するけどダッシュしている間は減らないヨ=Using items or skills fills the Ability Gauge, boosting ally dash performance.\n\n*Gauge slowly drains, but not while dashing.
 ジャンプやスライディング中もダッシュを継続できるヨ\n※ただしダッシュゲージを大きく消費=Continue dashing while jumping or sliding.\n*Consumes Dash Gauge heavily.
 ボタンを押し続けることで射程を広げ、離すと同時に前方を斬り払うヨ=Hold the button to extend the range, release to slash forward.
-てんごくえんま=Tengoku Enma
+てんごくえんま=Heaven and Hell
 神たる少女・天獄焉魔ジャスイは王手を\nかける\n醜く汚い大人を消し去り我が身が不滅\nとなれば子供だけの理想郷が完成され\nるはず…手駒は全て揃った\n裁きを下す刻がついに来たのだ=The divine girl, Tengoku Enma Jasui, calls checkmate.\nErase the ugly, filthy adults, make herself immortal,\nand a paradise for children alone will be complete...\nAll her pieces are in place.\nThe hour of judgment has finally come.
 敵が近くにいるとアビリティゲージが上昇し、満タン時にスペシャルボタンを押すと・・・\n\n【ヒトの時】\nオニの攻撃を反射するヨ\n※アイテムを所持していればアイテムの使用を優先\n\n【オニの時】\nスキルゲージを回復するヨ\n※スキルゲージが足りていればスキルの発動を優先=Ability Gauge rises when enemies are nearby. When full, press Special...\n\n[As Human]\nReflect the Oni's attack.\n*Item use takes priority if you have one.\n\n[As Oni]\nRecover Skill Gauge.\n*Skill activation takes priority if gauge is full.
-天獄焉魔　ジャスイ=Tengoku Enma Jasui
-アマゾネス=Amazoness
-ターミネーター=Terminator
-解体業者=Demolition Contractor
-壊し屋=Wrecker
-デストロイヤー=Destroyer
-一番星=First Star
-<color\=#02c2fc>がんばった</color>で<color\=#f9fc0e>賞</color>=<color\=#f9fc0e>Award</color> for <color\=#02c2fc>Trying Your Best</color>
-チャージマスター=Charge Master
-トップガン=Top Gun
-スマイル=Smile
-ファッションリーダー=Fashion Leader
-衣装餅=Costume Collector
-コレクター=Collector
+天獄焉魔　ジャスイ=Jasu, the Demon of the Celestial Prison
 なし（サカサマｖｅｒ．）=None (Sakasama ver.)
 ジョウカの靴（サカサマｖｅｒ．）=Jouka's Shoes (Sakasama ver.)
 ジョウカの制服（サカサマｖｅｒ．）=Jouka's Uniform (Sakasama ver.)
@@ -850,10 +614,6 @@ AP回復（ゲーム開始時）=AP Recovery (Match Start)
 曼珠沙華=Manjushage
 アビリティゲージ増加量=Ability Gauge Increase Amount
 １点=1 pt
-タッチダウン=Touchdown
-サポーター=Supporter
-練習中=In Practice
-チュートリアルをプレー=Play Tutorial
 サブモニターの解像度が正しくありません。\n現在の解像度　1920 x 1080\nサブモニターが正しく接続されているか\n確認してください。\r\n=Sub monitor resolution is incorrect.\nCurrent: 1920 x 1080\nPlease verify the sub monitor is properly connected.\r\n
 本番回線(EA000013)\r\nリリースビルド\r\n=Production line (EA000013)\r\nRelease build\r\n
 なな=Nana
@@ -868,9 +628,9 @@ AP回復（ゲーム開始時）=AP Recovery (Match Start)
 キーパワーを取ってみよう=Try collecting a Key Power.
 アイテムを使ってみよう=Try using an Item.
 敵を倒してみよう=Try defeating an enemy.
-サカサマフォームを解放しました！=Sakasama Form unlocked!
+サカサマフォームを解放しました！=Sakasama Form has been released!
 キャラクターの欠片=Character Fragments
-首塚ツバキの欠片=Kubitsuka Tsubaki Fragments
+首塚ツバキの欠片=A Fragment of the Kubitsuka Tsubaki
 ２０２６/０４/１４　８：５９まで=Until 2026/04/14 8:59
 あと５コイン=5 coins left
 ＰＡＳＥＬＩで支払う=Pay with PASELI
@@ -919,13 +679,12 @@ AP回復（ゲーム開始時）=AP Recovery (Match Start)
 連続した番号（0000、1111 ～ 9999）は登録できません=Sequential numbers (0000, 1111 ~ 9999) cannot be registered.
 確認のため、もう一度入力してください=Please enter once more to confirm.
 登録が<color\=#F9FF00>完了</color>しました=Registration <color\=#F9FF00>complete</color>!
-カードナンバー（ユーザーコード）について=About Your Card Number (User Code)
+カードナンバー（ユーザーコード）について=About Card Numbers (User Codes)
 スキップ\n=Skip\n
 入力されたプレーヤー名はランキングやゲームプレーに必要な表示のため\n「チェイスチェイスジョーカーズ」のゲーム画面、当社ウェブサイトやＰＣソフト、\r\n当社グループのｅ-ａｍｕｓｅｍｅｎｔ関連のモバイルアプリで公開される可能性があります。\n<color\=#0000ff>氏名や電話番号、メールアドレス等個人を特定できるものを入力しないようにお願いします。</color>=Your entered player name may be shown publicly on the "Chase Chase Jokers" game screen, our website, PC software,\r\nand our group's e-amusement-related mobile apps for use in rankings and gameplay displays.\n<color\=#0000ff>Please do not enter information that could personally identify you, such as your name, phone number, or email address.</color>
 ネームエントリー=Name Entry
 ご希望の<color\=#F9FF00>プレーヤー名</color>を入力してください=Please enter your desired <color\=#F9FF00>player name</color>.
 なおゲームスタート時にプレーヤー名表示設定ボタンから、ランキングでのプレーヤー名の表示ＯＮ/ＯＦＦを\n切り替えることができます。=You can also toggle player name display ON/OFF in rankings via the player name display settings button at game start.
-大文字=Uppercase
 設定=Settings
 ｅ-ａｍｕｓｅｍｅｎｔサイト【ｈｔｔｐ:\/\/ｅａｇａｔｅ.５７３.ｊｐ/】\r=e-amusement site [http:\/\/eagate.573.jp/]\r
 <color\=#F9FF00>暗証番号</color>が<color\=#EE4696>違い</color>ます！　<color\=#EE4696>もう一度入力</color>してください=<color\=#F9FF00>PIN</color> is <color\=#EE4696>incorrect</color>! Please <color\=#EE4696>enter it again</color>.

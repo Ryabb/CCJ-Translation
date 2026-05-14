@@ -1,19 +1,18 @@
 オンラインアップデートの準備が整いました。\r再起動するとバージョンアップが完了します。\r\n注）再起動する際は、電源を切った後10秒以上経過してから電源を投入してください。=An online update is ready.\rRestart to complete the update.\r\nNote: After powering off, wait at least 10 seconds before turning back on.
 こちらに日付　９/９（曜日）９９:９９～９/９（曜日）９９:９９=Date here: 9/9 (Day) 99:99 ~ 9/9 (Day) 99:99
-お知らせ準備中=Preparing notification
-ジョーカーチェイスはじまるヨ～=Joker Chase is starting!
+お知らせ準備中=Announcement coming soon
+ジョーカーチェイスはじまるヨ～=The Joker Chase is about to begin!
 このゲーム機は チームＡ です=This machine is Team A
-限定マッチング中=Restricted Matching
+限定マッチング中=Limited-time matching event
 ｅ-ａｍｕｓｅｍｅｎｔ ｐａｓｓを確認しています。しばらくお待ちください…=Verifying e-amusement pass. Please wait...
-カード認証=Card Authentication
+カード認証=Card Verification
 あと1コイン=1 coin left
-クレジット=Credit
+クレジット=Credits
 クレジットでプレー=Play with Credit
 ＰＡＳＥＬＩでプレー=Play with PASELI
 円（税込）=Yen (tax included)
 スティックを動かしてください=Please move the stick
 ランキング圏外=Outside Ranking Range
-チェイスチェイスジョーカーズに参戦=Join Chase Chase Jokers
 制作・著作 株式会社コナミアミューズメント=Produced by Konami Amusement Co., Ltd.
 ゲーム設定=Game Settings
 サウンド設定=Sound Settings
@@ -81,9 +80,9 @@ IPアドレス=IP Address
 保存して終了=Save and Exit
 チーム=Team
 マッチングコード=Matching Code
-限定マッチング=Restricted Matching
+限定マッチング=Exclusive Matchmaking
 営業終了時間=Closing Time
-閉店設定=Closing Settings
+閉店設定=Close Store Settings
 テストモード=Test Mode
 日本語=Japanese
 ゲームモード（デフォルト）=Game Mode (Default)
@@ -115,14 +114,14 @@ TESTボタンを押しながらSERVICEボタン \= 中止=Hold TEST + press SERV
 中心X座標:32768\n中心Y座標:32768=Center X: 32768\nCenter Y: 32768
 完了しました=Complete
 ・ルーターからインターネット回線までの、\n　全ての接続機器の電源が入っているか確認\n　してください。\n・ルーターからインターネット回線までの、\n　全ての接続機器が正しく接続されているか\n　確認してください。=・Please confirm all devices between the router and the internet line\n　are powered on.\n・Please confirm all devices between the router and the internet line\n　are properly connected.
-センターサーバーと通信できません=Cannot communicate with Center server.
+センターサーバーと通信できません=Unable to communicate with the central server
 <color\=cyan>左/右ボタン \= 移動</color>=<color\=cyan>Left/Right button \= Navigate</color>
 ネットワーク接続状況確認中\n只今、プレーはできません。=Checking network connection status.\nPlay is unavailable at this time.
 サブモニター解像度エラー=Sub Monitor Resolution Error
 数字はランダムで表示されます=Numbers are displayed in random order.
 暗証番号入力=Enter PIN
 <color\=#F9FF00>暗証番号</color>を入力してください=Please enter your <color\=#F9FF00>PIN</color>
-確認入力=Confirm Input
+確認入力=Confirmation
 しばらくお待ちください=Please wait...
 <color\=#F9FF00>確認</color>しました=<color\=#F9FF00>Confirmed</color>
 ランキング=Rankings
@@ -130,7 +129,7 @@ TESTボタンを押しながらSERVICEボタン \= 中止=Hold TEST + press SERV
 プレーヤー名表示設定=Player Name Display Settings
 このデータでゲームを始めます=Start game with this data.
 ※ご注意※\n<size\=80%>\n画面の下部に残高が表示されている間は\n\rPASELIを使用できますので\r\n<color\=#bb0000>ゲーム機を離れる前に、必ずゲームを終了して\r\ne-amusement passをお持ち帰りください</color>\n\n</size>=*Notice*\n<size\=80%>\nPASELI can be used while the balance is shown\n\rat the bottom of the screen.\r\n<color\=#bb0000>Before leaving the machine, be sure to exit the game\r\nand take your e-amusement pass with you.</color>\n\n</size>
-ＰＡＳＥＬＩ確認中。=Verifying PASELI...
+ＰＡＳＥＬＩ確認中。=Checking PASELI.
 あと１コイン=1 coin left
 ゲーム中、<color\=#004efe>自分以外</color>の\n\rプレーヤー名を<color\=#004efe>表示しない</color>=<color\=#004efe>Hide</color> <color\=#004efe>other players'</color> names\n\rduring the match
 ゲーム中、<color\=#004efe>自分のプレーヤー名</color>を\n他の人の画面に<color\=#004efe>表示しない</color>=<color\=#004efe>Hide</color> <color\=#004efe>your player name</color>\nfrom other players' screens during the match

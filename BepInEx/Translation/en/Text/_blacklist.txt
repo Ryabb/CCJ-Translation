@@ -13743,3 +13743,4 @@ BEAT-NEW-WORLD=BEAT-NEW-WORLD
 曼荼羅恋々=曼荼羅恋々
 桿子=桿子
 蝙蝠=蝙蝠
+大文字=大文字
